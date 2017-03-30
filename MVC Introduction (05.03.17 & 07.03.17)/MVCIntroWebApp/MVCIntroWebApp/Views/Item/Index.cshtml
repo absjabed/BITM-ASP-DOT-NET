@@ -1,0 +1,93 @@
+﻿@using MVCIntroWebApp.Models
+@model List<ItemWithCategory>
+
+@{
+    Layout = null;
+    List<Category> categories = ViewBag.Categories;
+    //Item item = ViewBag.Item;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+<div>
+
+    <div class="row">
+        <div class="col-sm-4"></div>
+        <div class="col-sm-4" style="padding-top: 50px">
+            <div class="panel panel-primary">
+                <div class="panel-heading">Select Category</div>
+                <div class="panel-body">
+                    <form name="myform" action="" method="post">
+                        <table align="center">
+                            <tr>
+                                <td>
+                                    <label for="CategoryId">Category:</label>
+                                </td>
+                                <td>
+                                    <select class="form-control" id="CategoryId" name="CategoryId" onchange="this.form.submit()">
+                                        <option value="">--Select--</option>
+                                        @foreach (var category in categories)
+                                        {
+                                            <option value="@category.Id">@category.Name</option>
+                                        }
+                                    </select>
+                                </td>
+                            </tr>
+                        </table>
+                    </form>
+
+                    
+
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-4"></div>
+
+    </div>
+    <div class="row">
+        <div class="col-sm-2"></div>
+        <div class="col-sm-8">
+            <table class="table table-bordered">
+                <thead>
+                <tr>
+                    <th>SL#</th>
+                    <th>Item Name</th>
+                    <th>Price</th>
+                    <th>Category</th>
+                </tr>
+                </thead>
+                <tbody>
+                @{
+                    int counter = 1;
+                }
+                @foreach (ItemWithCategory item in Model)
+                {
+                    <tr>
+                        <td>@counter</td>
+                        <td>@item.ItemName</td>
+                        <td>@item.ItemPrice</td>
+                        <td>@item.CategoryName</td>
+                    </tr>
+                    counter++;
+                }
+                </tbody>
+            </table>
+        </div>
+        <div class="col-sm-2"></div>
+    </div>
+
+
+
+    @*@item.Name
+            <br/>
+            @item.Price*@
+</div>
+</body>
+</html>

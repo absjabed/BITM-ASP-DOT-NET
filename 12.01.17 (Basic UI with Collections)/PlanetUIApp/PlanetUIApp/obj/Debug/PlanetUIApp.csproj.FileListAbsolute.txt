@@ -1,0 +1,18 @@
+D:\absjbd - 157540\12.01.17\PlanetUIApp\PlanetUIApp\bin\Debug\PlanetUIApp.exe.config
+D:\absjbd - 157540\12.01.17\PlanetUIApp\PlanetUIApp\bin\Debug\PlanetUIApp.exe
+D:\absjbd - 157540\12.01.17\PlanetUIApp\PlanetUIApp\bin\Debug\PlanetUIApp.pdb
+D:\absjbd - 157540\12.01.17\PlanetUIApp\PlanetUIApp\obj\Debug\PlanetUIApp.csprojResolveAssemblyReference.cache
+D:\absjbd - 157540\12.01.17\PlanetUIApp\PlanetUIApp\obj\Debug\PlanetUIApp.PlanetUI.resources
+D:\absjbd - 157540\12.01.17\PlanetUIApp\PlanetUIApp\obj\Debug\PlanetUIApp.Properties.Resources.resources
+D:\absjbd - 157540\12.01.17\PlanetUIApp\PlanetUIApp\obj\Debug\PlanetUIApp.csproj.GenerateResource.Cache
+D:\absjbd - 157540\12.01.17\PlanetUIApp\PlanetUIApp\obj\Debug\PlanetUIApp.exe
+D:\absjbd - 157540\12.01.17\PlanetUIApp\PlanetUIApp\obj\Debug\PlanetUIApp.pdb
+C:\Users\abs.jabed\Desktop\12.01.17\PlanetUIApp\PlanetUIApp\bin\Debug\PlanetUIApp.exe.config
+C:\Users\abs.jabed\Desktop\12.01.17\PlanetUIApp\PlanetUIApp\obj\Debug\PlanetUIApp.exe
+C:\Users\abs.jabed\Desktop\12.01.17\PlanetUIApp\PlanetUIApp\obj\Debug\PlanetUIApp.pdb
+C:\Users\abs.jabed\Desktop\12.01.17\PlanetUIApp\PlanetUIApp\bin\Debug\PlanetUIApp.exe
+C:\Users\abs.jabed\Desktop\12.01.17\PlanetUIApp\PlanetUIApp\bin\Debug\PlanetUIApp.pdb
+C:\Users\abs.jabed\Desktop\12.01.17\PlanetUIApp\PlanetUIApp\obj\Debug\PlanetUIApp.csprojResolveAssemblyReference.cache
+C:\Users\abs.jabed\Desktop\12.01.17\PlanetUIApp\PlanetUIApp\obj\Debug\PlanetUIApp.PlanetUI.resources
+C:\Users\abs.jabed\Desktop\12.01.17\PlanetUIApp\PlanetUIApp\obj\Debug\PlanetUIApp.Properties.Resources.resources
+C:\Users\abs.jabed\Desktop\12.01.17\PlanetUIApp\PlanetUIApp\obj\Debug\PlanetUIApp.csproj.GenerateResource.Cache

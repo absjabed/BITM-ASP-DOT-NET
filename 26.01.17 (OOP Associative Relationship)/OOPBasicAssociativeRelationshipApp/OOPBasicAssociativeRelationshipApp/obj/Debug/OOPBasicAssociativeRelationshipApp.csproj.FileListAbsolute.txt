@@ -1,0 +1,6 @@
+D:\absjbd - 157540\26.01.17 (OOP Associative Relationship)\OOPBasicAssociativeRelationshipApp\OOPBasicAssociativeRelationshipApp\bin\Debug\OOPBasicAssociativeRelationshipApp.exe.config
+D:\absjbd - 157540\26.01.17 (OOP Associative Relationship)\OOPBasicAssociativeRelationshipApp\OOPBasicAssociativeRelationshipApp\bin\Debug\OOPBasicAssociativeRelationshipApp.exe
+D:\absjbd - 157540\26.01.17 (OOP Associative Relationship)\OOPBasicAssociativeRelationshipApp\OOPBasicAssociativeRelationshipApp\bin\Debug\OOPBasicAssociativeRelationshipApp.pdb
+D:\absjbd - 157540\26.01.17 (OOP Associative Relationship)\OOPBasicAssociativeRelationshipApp\OOPBasicAssociativeRelationshipApp\obj\Debug\OOPBasicAssociativeRelationshipApp.csprojResolveAssemblyReference.cache
+D:\absjbd - 157540\26.01.17 (OOP Associative Relationship)\OOPBasicAssociativeRelationshipApp\OOPBasicAssociativeRelationshipApp\obj\Debug\OOPBasicAssociativeRelationshipApp.exe
+D:\absjbd - 157540\26.01.17 (OOP Associative Relationship)\OOPBasicAssociativeRelationshipApp\OOPBasicAssociativeRelationshipApp\obj\Debug\OOPBasicAssociativeRelationshipApp.pdb

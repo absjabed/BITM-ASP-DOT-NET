@@ -1,0 +1,78 @@
+﻿@model HtmlHelperDataAnnotation.Models.Employee
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Save</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <style>
+        .field-validation-error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm())
+        {
+            <fieldset>
+                <legend>Save Employee</legend>
+                <table>
+                    <tr>
+                        <td>@Html.LabelFor(m=>m.Name)</td>
+                        <td>@Html.TextBoxFor(m => m.Name, new { @class = "form-control" })</td>
+                        <td>@Html.ValidationMessageFor(m=>m.Name)</td>
+                    </tr>
+                    <tr>
+                        <td>@Html.LabelFor(m=>m.Email)</td>
+                        <td>@Html.TextBoxFor(m => m.Email, new { @class = "form-control" })</td>
+                        <td>@Html.ValidationMessageFor(m=>m.Email)</td>
+                    </tr>
+                    <tr>
+                        <td>@Html.LabelFor(m=>m.Gender)</td>
+                        <td>@Html.RadioButtonFor(m => m.Gender, "Female", new { @class = "radio-inline" }) Female @Html.RadioButtonFor(m => m.Gender, "Male", new { @class = "radio-inline" }) Male</td>
+                        <td>@Html.ValidationMessageFor(m=>m.Gender)</td>
+                    </tr>
+                    <tr>
+                        <td>@Html.LabelFor(m => m.Department)</td>
+                        <td>@Html.DropDownListFor(m => m.Department, new SelectList(ViewBag.Departments, "Value", "Text"), new { @class = "form-control" })</td>
+                        <td>@Html.ValidationMessageFor(m => m.Department)</td>
+                    </tr>
+
+                    <tr>
+                        <td>@Html.LabelFor(m => m.Address)</td>
+                        <td>@Html.TextBoxFor(m => m.Address, new { @class = "form-control" })</td>
+                        <td>@Html.ValidationMessageFor(m => m.Address)</td>
+                    </tr>
+
+                    <tr>
+                        <td>@Html.LabelFor(m => m.Password)</td>
+                        <td>@Html.PasswordFor(m => m.Password, new { @class = "form-control" })</td>
+                        <td>@Html.ValidationMessageFor(m => m.Password)</td>
+                    </tr>
+
+                    <tr>
+                        <td>@Html.LabelFor(m => m.ConfirmPassword)</td>
+                        <td>@Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control" })</td>
+                        <td>@Html.ValidationMessageFor(m => m.ConfirmPassword)</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input type="submit" class="btn btn-default" value="Save" />
+                        </td>
+                    </tr>
+                </table>
+            </fieldset>
+        } 
+    </div>
+    <script src="~/Scripts/bootstrap.js"></script>
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+</body>
+</html>

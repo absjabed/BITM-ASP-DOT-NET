@@ -1,0 +1,86 @@
+﻿@using BookBorrowSystemApp.Models
+
+@{
+    Layout = null;
+    AlertType alert = ViewBag.alert;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>SaveBook</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    
+</head>
+<body>
+    <div>
+        <fieldset>
+            <legend>Book Entry</legend>
+            <form method="POST" id="saveForm">
+                
+                
+                @if (ViewBag.Alert != null)
+                {
+                        <div class="alert alert-@alert.MessageType">@alert.Message</div>
+                }
+
+                <table>
+                    <tr>
+                        <td><label for="Title">Title:</label></td>
+                        <td><input class="form-control" type="text" id="Title" name="Title" /></td>
+                    </tr>
+                    <tr>
+                        <td><label for="Author">Author:</label></td>
+                        <td><input class="form-control" type="text" id="Author" name="Author" /></td>
+                    </tr>
+                    <tr>
+                        <td><label for="Publisher">Publisher:</label></td>
+                        <td><input class="form-control" type="text" id="Publisher" name="Publisher" /></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td><input class="btn btn-success " type="submit" value="Save" />
+                        </td>
+                    </tr>
+                </table>
+            </form>
+</fieldset> 
+    </div>
+    <script src="~/Scripts/bootstrap.js"></script>
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    
+    <script>
+        $().ready(function () {
+
+            $("#saveForm").validate({
+                rules: {
+
+                    Title: {
+                        required: true
+                    },
+                    Author: {
+                        required: true
+                    },
+                    Publisher: {
+                        required: true
+                    },
+                },
+                messages: {
+                    Title: {
+                        required: "Book Title must be provided."
+                    },
+                    Author: {
+                        required: "Author Name is a must."
+                    },
+                    Publisher: "Publisher name is required."
+                }
+            });
+
+        });
+    </script>
+
+</body>
+</html>

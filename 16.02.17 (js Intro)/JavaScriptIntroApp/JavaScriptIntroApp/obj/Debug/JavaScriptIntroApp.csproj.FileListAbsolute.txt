@@ -1,0 +1,6 @@
+D:\absjbd - 157540\16.02.17 (js Intro)\JavaScriptIntroApp\JavaScriptIntroApp\bin\JavaScriptIntroApp.dll.config
+D:\absjbd - 157540\16.02.17 (js Intro)\JavaScriptIntroApp\JavaScriptIntroApp\bin\JavaScriptIntroApp.dll
+D:\absjbd - 157540\16.02.17 (js Intro)\JavaScriptIntroApp\JavaScriptIntroApp\bin\JavaScriptIntroApp.pdb
+D:\absjbd - 157540\16.02.17 (js Intro)\JavaScriptIntroApp\JavaScriptIntroApp\obj\Debug\JavaScriptIntroApp.csprojResolveAssemblyReference.cache
+D:\absjbd - 157540\16.02.17 (js Intro)\JavaScriptIntroApp\JavaScriptIntroApp\obj\Debug\JavaScriptIntroApp.dll
+D:\absjbd - 157540\16.02.17 (js Intro)\JavaScriptIntroApp\JavaScriptIntroApp\obj\Debug\JavaScriptIntroApp.pdb

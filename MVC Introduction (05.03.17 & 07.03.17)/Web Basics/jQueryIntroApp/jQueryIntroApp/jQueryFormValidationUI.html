@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>jQuery Form Validation</title>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Content/bootstrap-datepicker.css" rel="stylesheet" />
+    <style>
+        label.error {
+            color: red;
+            font-weight: bold;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <form id="ourForm">
+        <table>
+            <tr>
+                <td><label for="name">Name:</label></td>
+                <td><input type="text" id="name" name="name" placeholder="Your name here" /></td>
+            </tr>
+            <tr>
+                <td><label for="emailID">Email ID:</label></td>
+                <td><input type="text" id="emailID" name="email" placeholder="abc@def.gh" /></td>
+            </tr>
+            <tr>
+                <td><label for="password">Password:</label></td>
+                <td><input type="password" id="password" name="password" placeholder="***" /></td>
+            </tr>
+            <tr>
+                <td><label for="confirmPassword">Password Again:</label></td>
+                <td><input type="password" id="confirmPassword" name="confirmPassword" placeholder="***" /></td>
+            </tr>
+            <tr>
+                <td><label for="date">Registration Date:</label></td>
+                <td><input type="text" id="date" /></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit" value="Save" /></td>
+            </tr>
+        </table>
+    </form>
+    <script src="Scripts/jquery-3.1.1.js"></script>
+    <script src="Scripts/jquery.validate.js"></script>
+    <!--<script src="Scripts/bootstrap.js"></script>-->
+    <script src="Scripts/bootstrap-datepicker.js"></script>
+    <script src="Scripts/avro-v1.1.4.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#name').avro();
+            $('#date').datepicker({
+                format: "dd-mm-yyyy",
+                weekStart: 6,
+                daysOfWeekDisabled: "5",
+                daysOfWeekHighlighted: "6",
+                autoclose: true,
+                todayHighlight: true
+            });
+            $("#ourForm").validate({
+                rules: {
+                    name: {
+                        required: true,
+                        minlength: 3
+                    },
+                    email: {
+                        required: true,
+                        email: true
+                    },
+                    password: {
+                        required: true,
+                        maxlength: 8
+                    },
+                    confirmPassword: {
+                        required: true,
+                        maxlength: 8,
+                        equalTo: "#password"
+                    }
+                },
+                messages: {
+                    name: {
+                        required: "Must be provided",
+                        minlength: "Must be at least 3 characters long"
+                    },
+                    email: {
+                        required: "Must be given your Email ID",
+                        email: "it needs to be abc@def.ch"
+                    },
+                    password: {
+                        required: "Must be given",
+                        maxlength: "Must be below 8 characters"
+                    },
+                    confirmPassword: {
+                        required: "Must be given",
+                        maxlength: "Must be below 8 characters",
+                        equalTo: "Did not match with above Password"
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+D:\absjbd\27.12.16\GradingSystem\GradingSystem\bin\Debug\GradingSystem.exe.config
+D:\absjbd\27.12.16\GradingSystem\GradingSystem\bin\Debug\GradingSystem.exe
+D:\absjbd\27.12.16\GradingSystem\GradingSystem\bin\Debug\GradingSystem.pdb
+D:\absjbd\27.12.16\GradingSystem\GradingSystem\obj\Debug\GradingSystem.exe
+D:\absjbd\27.12.16\GradingSystem\GradingSystem\obj\Debug\GradingSystem.pdb

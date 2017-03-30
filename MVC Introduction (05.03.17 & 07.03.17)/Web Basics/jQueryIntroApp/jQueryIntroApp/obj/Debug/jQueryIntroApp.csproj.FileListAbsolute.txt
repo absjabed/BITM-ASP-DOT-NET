@@ -1,0 +1,6 @@
+E:\SEIP.NET\Batch 38\16-02-2017\jQueryIntroApp\jQueryIntroApp\bin\jQueryIntroApp.dll.config
+E:\SEIP.NET\Batch 38\16-02-2017\jQueryIntroApp\jQueryIntroApp\bin\jQueryIntroApp.dll
+E:\SEIP.NET\Batch 38\16-02-2017\jQueryIntroApp\jQueryIntroApp\bin\jQueryIntroApp.pdb
+E:\SEIP.NET\Batch 38\16-02-2017\jQueryIntroApp\jQueryIntroApp\obj\Debug\jQueryIntroApp.csprojResolveAssemblyReference.cache
+E:\SEIP.NET\Batch 38\16-02-2017\jQueryIntroApp\jQueryIntroApp\obj\Debug\jQueryIntroApp.dll
+E:\SEIP.NET\Batch 38\16-02-2017\jQueryIntroApp\jQueryIntroApp\obj\Debug\jQueryIntroApp.pdb

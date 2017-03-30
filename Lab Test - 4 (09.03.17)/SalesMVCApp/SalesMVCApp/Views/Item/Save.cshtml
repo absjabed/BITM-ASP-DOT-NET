@@ -1,0 +1,124 @@
+﻿@using SalesMVCApp.Models
+
+@{
+    Layout = null;
+
+    List<Items> itemss = ViewBag.Items;
+    AlertType alertType = ViewBag.Alert;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Save</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <div class="row">
+            <div class="col-sm-2" align="center" style="padding-top: 50px">
+                <ul class="nav nav-pills nav-stacked table-bordered">
+                    <li><a href="Index">Home</a></li>
+                    <li class="active"><a href="Save">Save Item</a></li>
+                    <li><a href="ViewPage">View Info</a></li>
+                </ul>
+            </div>
+
+            <div class="col-sm-6" style="padding-top: 50px">
+                <div class="panel panel-primary">
+                    <div class="panel-heading">Sale Item</div>
+                    <div class="panel-body">
+
+                        <form method="POST" id="saveForm">
+                            @if (ViewBag.Alert != null)
+                            {
+                                <div class="alert alert-@alertType.MessageType">@alertType.Message</div>
+                            }
+                            <table align="center">
+                                <tr>
+                                    <td>
+                                        <label for="ItemId">Item:</label>
+                                    </td>
+                                    <td>
+                                        <select class="form-control" id="ItemId" name="ItemId">
+                                            <option value="">--Select--</option>
+                                            @foreach (var item in itemss)
+                                            {
+                                                <option value="@item.Id">@item.Name</option>
+                                            }
+                                        </select>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <label for="Quantity">Quantity:</label>
+                                    </td>
+                                    <td>
+                                        <input class="form-control" type="number" min="1" max="20" id="Quantity" name="Quantity" />
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <label for="CustomerName">Customer Name:</label>
+                                    </td>
+                                    <td>
+                                        <input class="form-control" type="text" id="CustomerName" name="CustomerName" />
+                                    </td>
+                                </tr>
+                                
+                                <tr>
+                                    <td></td>
+                                    <td>
+                                        <input class="btn btn-success btn-block" type="submit" value="Save" />
+                                    </td>
+                                </tr>
+                            </table>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4"></div>
+        </div> 
+    </div>
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/bootstrap.js"></script>
+    <script>
+        $().ready(function () {
+
+            $("#saveForm").validate({
+                rules: {
+
+                    ItemId: {
+                        required: true,
+                        number: true
+                    },
+                    Quantity: {
+                        required: true,
+                        number: true,
+                        digits: true
+                    },
+                    CustomerName: {
+                        required: true,
+                        number: false
+                    },
+                },
+                messages: {
+                    ItemId: {
+                        required: "Please enter item id.",
+                        number: "Price Must be a number"
+                    },
+                    Quantity: {
+                        required: "Please enter item quantity.",
+                        number: "Quantity Must be a number"
+                    },
+                    CustomerName: "Please write a valid Name"
+                }
+            });
+
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+D:\absjbd\27.12.16\WorkingWithLoopAndCondition\WorkingWithLoopAndCondition\bin\Debug\WorkingWithLoopAndCondition.exe.config
+D:\absjbd\27.12.16\WorkingWithLoopAndCondition\WorkingWithLoopAndCondition\bin\Debug\WorkingWithLoopAndCondition.exe
+D:\absjbd\27.12.16\WorkingWithLoopAndCondition\WorkingWithLoopAndCondition\bin\Debug\WorkingWithLoopAndCondition.pdb
+D:\absjbd\27.12.16\WorkingWithLoopAndCondition\WorkingWithLoopAndCondition\obj\Debug\WorkingWithLoopAndCondition.csprojResolveAssemblyReference.cache
+D:\absjbd\27.12.16\WorkingWithLoopAndCondition\WorkingWithLoopAndCondition\obj\Debug\WorkingWithLoopAndCondition.exe
+D:\absjbd\27.12.16\WorkingWithLoopAndCondition\WorkingWithLoopAndCondition\obj\Debug\WorkingWithLoopAndCondition.pdb

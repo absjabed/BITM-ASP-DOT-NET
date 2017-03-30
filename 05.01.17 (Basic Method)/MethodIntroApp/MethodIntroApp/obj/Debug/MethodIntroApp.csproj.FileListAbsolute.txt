@@ -1,0 +1,6 @@
+D:\absjbd - 157540\05.01.17\MethodIntroApp\MethodIntroApp\bin\Debug\MethodIntroApp.exe.config
+D:\absjbd - 157540\05.01.17\MethodIntroApp\MethodIntroApp\bin\Debug\MethodIntroApp.exe
+D:\absjbd - 157540\05.01.17\MethodIntroApp\MethodIntroApp\bin\Debug\MethodIntroApp.pdb
+D:\absjbd - 157540\05.01.17\MethodIntroApp\MethodIntroApp\obj\Debug\MethodIntroApp.csprojResolveAssemblyReference.cache
+D:\absjbd - 157540\05.01.17\MethodIntroApp\MethodIntroApp\obj\Debug\MethodIntroApp.exe
+D:\absjbd - 157540\05.01.17\MethodIntroApp\MethodIntroApp\obj\Debug\MethodIntroApp.pdb

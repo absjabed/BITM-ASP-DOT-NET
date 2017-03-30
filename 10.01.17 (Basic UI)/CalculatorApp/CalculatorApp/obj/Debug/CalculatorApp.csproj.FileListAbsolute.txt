@@ -1,0 +1,9 @@
+D:\absjbd - 157540\10.01.17\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+D:\absjbd - 157540\10.01.17\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+D:\absjbd - 157540\10.01.17\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+D:\absjbd - 157540\10.01.17\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+D:\absjbd - 157540\10.01.17\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.CalculatorUI.resources
+D:\absjbd - 157540\10.01.17\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+D:\absjbd - 157540\10.01.17\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+D:\absjbd - 157540\10.01.17\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+D:\absjbd - 157540\10.01.17\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb

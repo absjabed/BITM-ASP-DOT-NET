@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+    </head>
+<body>
+    <script>
+        var Person = function () {
+            this.FirstName = "Elon";
+            this.LastName = "Musk";
+
+            this.GetFullName = function () {
+                return this.FirstName + " " + this.LastName;
+            };
+        };
+
+        Person.prototype.Country = "Canada";
+
+        var person1 = new Person();
+        console.log(person1.GetFullName());
+        console.log(person1["FirstName"]);
+        console.log(person1.Country);
+
+        document.write(person1.GetFullName());
+        document.write(person1["FirstName"]);
+        document.write(person1.Country);
+    </script>
+</body>
+</html>

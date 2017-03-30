@@ -1,0 +1,76 @@
+﻿@using BookBorrowSystemApp.Models
+
+@{
+    Layout = null;
+    AlertType alert = ViewBag.alert;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AddMember</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <fieldset>
+            <legend>Add Member</legend>
+            <form method="POST" id="saveForm">
+
+
+                @if (ViewBag.Alert != null)
+                {
+                    <div class="alert alert-@alert.MessageType">@alert.Message</div>
+                }
+
+                <table>
+                    <tr>
+                        <td><label for="Number">Number:</label></td>
+                        <td><input class="form-control" type="text" id="Number" name="Number" /></td>
+                    </tr>
+                    <tr>
+                        <td><label for="Name">Name:</label></td>
+                        <td><input class="form-control" type="text" id="Name" name="Name" /></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <input class="btn btn-success " type="submit" value="Save" />
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </fieldset>  
+    </div>
+    <script src="~/Scripts/bootstrap.js"></script>
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script>
+        $().ready(function () {
+
+            $("#saveForm").validate({
+                rules: {
+
+                    Number: {
+                        required: true
+                    },
+                    Name: {
+                        required: true
+                    },
+                },
+                messages: {
+                    Number: {
+                        required: "Member number required!"
+                    },
+                    Name: {
+                        required: "Name required"
+                    }
+                }
+            });
+
+        });
+    </script>
+</body>
+</html>

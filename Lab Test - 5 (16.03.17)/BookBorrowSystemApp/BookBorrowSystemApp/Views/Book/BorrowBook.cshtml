@@ -1,0 +1,115 @@
+﻿@using BookBorrowSystemApp.Models
+
+@{
+    Layout = null;
+    AlertType alert = ViewBag.Alert;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>BorrowBook</title>
+</head>
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+<body>
+    <div>
+        <fieldset>
+            <legend>Book Entry</legend>
+            <form method="POST" id="saveForm">
+
+
+                @if (ViewBag.Alert != null)
+                {
+                    <div class="alert alert-@alert.MessageType">@alert.Message</div>
+                }
+
+                <table>
+                    <tr>
+                        <td><label for="Number">Enter Member Number:</label></td>
+                        <td><input class="form-control" type="text" id="Number" name="Number" /></td>
+                    </tr>
+                    <tr>
+                        <td><label for="BookId">Select a Book</label></td>
+                        <td><select id="BookId" name="BookId" class="form-control">
+    <option value="">..Select....</option>
+    @foreach (Book book in ViewBag.Books)
+    {
+        <option value="@book.Id">@book.Title</option>
+    }
+</select></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for="Author">Author:</label></td>
+                        <td><input class="form-control" type="text" id="Author" name="Author" readonly /></td>
+                    </tr>
+                    <tr>
+                        <td><label for="Publisher">Publisher:</label></td>
+                        <td><input class="form-control" type="text" id="Publisher" name="Publisher" readonly /></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td><input class="btn btn-success " type="submit" value="Save" /></td>
+                    </tr>
+                </table>
+            </form>
+        </fieldset> 
+         
+    </div>
+    <script src="~/Scripts/bootstrap.js"></script>
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script>
+        $().ready(function () {
+
+            $("#saveForm").validate({
+                rules: {
+
+                    Number: {
+                        required: true
+                    },
+                    BookId: {
+                        required: true
+                    },
+                },
+                messages: {
+                    Number: {
+                        required: "Member number required!"
+                    },
+                    BookId: {
+                        required: "Book Name required"
+                    }
+                }
+            });
+
+            $("#BookId").change(function () {
+                var stId = $("#BookId").val();
+                    //$("#CourseId").empty();
+                    var json = {
+                        bookId: stId
+                    };
+
+                    $.ajax({
+                        type: "POST",
+                        url: '@Url.Action("GetBooksById", "Book")',
+                        contentType: "application/json; charset=utf-8",
+                        data: JSON.stringify(json),
+                        success: function (data) {
+                            //alert(data);
+
+                            var author = data.Author;
+                            var publisher = data.Publisher;
+                            
+                            $("#Author").val(author);
+                            $("#Publisher").val(publisher);
+                        }
+                    });
+
+                });
+        });
+    </script>
+</body>
+</html>

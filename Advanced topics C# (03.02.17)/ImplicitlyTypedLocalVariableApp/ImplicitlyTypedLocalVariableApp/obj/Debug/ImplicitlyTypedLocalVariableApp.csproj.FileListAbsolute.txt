@@ -1,0 +1,6 @@
+D:\absjbd - 157540\Advanced topics C# (03.02.17)\ImplicitlyTypedLocalVariableApp\ImplicitlyTypedLocalVariableApp\bin\Debug\ImplicitlyTypedLocalVariableApp.exe.config
+D:\absjbd - 157540\Advanced topics C# (03.02.17)\ImplicitlyTypedLocalVariableApp\ImplicitlyTypedLocalVariableApp\bin\Debug\ImplicitlyTypedLocalVariableApp.exe
+D:\absjbd - 157540\Advanced topics C# (03.02.17)\ImplicitlyTypedLocalVariableApp\ImplicitlyTypedLocalVariableApp\bin\Debug\ImplicitlyTypedLocalVariableApp.pdb
+D:\absjbd - 157540\Advanced topics C# (03.02.17)\ImplicitlyTypedLocalVariableApp\ImplicitlyTypedLocalVariableApp\obj\Debug\ImplicitlyTypedLocalVariableApp.csprojResolveAssemblyReference.cache
+D:\absjbd - 157540\Advanced topics C# (03.02.17)\ImplicitlyTypedLocalVariableApp\ImplicitlyTypedLocalVariableApp\obj\Debug\ImplicitlyTypedLocalVariableApp.exe
+D:\absjbd - 157540\Advanced topics C# (03.02.17)\ImplicitlyTypedLocalVariableApp\ImplicitlyTypedLocalVariableApp\obj\Debug\ImplicitlyTypedLocalVariableApp.pdb

@@ -1,0 +1,10 @@
+﻿body {
+}
+.bg-success img {
+    border-radius: 100px;
+    height: 150px;
+    width: 150px;
+}
+#form1 {
+    font-family: 'Sansita', sans-serif;
+}

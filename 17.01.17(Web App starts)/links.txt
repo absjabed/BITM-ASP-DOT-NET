@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/14956027/how-to-pass-values-across-the-pages-in-asp-net-without-using-session

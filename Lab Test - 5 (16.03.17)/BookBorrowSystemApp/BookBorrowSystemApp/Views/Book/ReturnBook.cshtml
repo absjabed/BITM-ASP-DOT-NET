@@ -1,0 +1,115 @@
+﻿@using BookBorrowSystemApp.Models
+
+@{
+    Layout = null;
+    AlertType alert = ViewBag.Alert;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ReturnBook</title>
+</head>
+<body>
+    <div>
+        <fieldset>
+            <legend>Book Entry</legend>
+            <form method="POST" id="saveForm">
+
+
+                @if (ViewBag.Alert != null)
+                {
+                    <div class="alert alert-@alert.MessageType">@alert.Message</div>
+                }
+
+
+                <div class="form-control">
+                    <label for="Number">Enter Member Number:</label>
+                    <input class="form-control" type="text" id="Number" name="Number" />
+                </div>
+                <div class="form-group">
+                    <label for="Name">Select a Book</label>
+                    <select id="Name" name="Name" class="form-control">
+                        <option value="">..Select....</option>
+                        @foreach (Book book in ViewBag.Books)
+                        {
+                            <option value="@book.Id">@book.Title</option>
+                        }
+                    </select>
+                </div>
+
+                <div class="form-control">
+                    <label for="Author">Author:</label>
+                    <input class="form-control" type="text" id="Author" name="Author" readonly />
+                </div>
+                <div class="form-control">
+                    <label for="Publisher">Publisher:</label>
+                    <input class="form-control" type="text" id="Publisher" name="Publisher" readonly />
+
+                </div>
+                <input class="btn btn-success " type="submit" value="Save" />
+
+
+
+            </form>
+        </fieldset>
+         
+    </div>
+    
+    <script src="~/Scripts/bootstrap.js"></script>
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script>
+        $().ready(function () {
+
+            $("#saveForm").validate({
+                rules: {
+
+                    Number: {
+                        required: true
+                    },
+                    Name: {
+                        required: true
+                    },
+                },
+                messages: {
+                    Number: {
+                        required: "Member number required!"
+                    },
+                    Name: {
+                        required: "Book Name required"
+                    }
+                }
+            });
+
+                $("#Name").change(function () {
+                    var stId = $("#Name").val();
+                    //$("#CourseId").empty();
+                    var json = {
+                        bookId: stId
+                    };
+
+                    $.ajax({
+                        type: "POST",
+                        url: '@Url.Action("GetBooksById", "Book")',
+                        contentType: "application/json; charset=utf-8",
+                        data: JSON.stringify(json),
+                        success: function (data) {
+                            //alert(data);
+
+                            var author = data.Author;
+                            var publisher = data.Publisher;
+
+                            $("#Author").val(author);
+                            $("#Publisher").val(publisher);
+                        }
+                    });
+
+                });
+        });
+    </script>
+</body>
+</html>

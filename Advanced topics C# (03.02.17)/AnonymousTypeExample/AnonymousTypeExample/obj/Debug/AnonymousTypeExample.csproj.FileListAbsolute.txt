@@ -1,0 +1,6 @@
+D:\absjbd - 157540\Advanced topics C# (03.02.17)\AnonymousTypeExample\AnonymousTypeExample\bin\Debug\AnonymousTypeExample.exe.config
+D:\absjbd - 157540\Advanced topics C# (03.02.17)\AnonymousTypeExample\AnonymousTypeExample\bin\Debug\AnonymousTypeExample.exe
+D:\absjbd - 157540\Advanced topics C# (03.02.17)\AnonymousTypeExample\AnonymousTypeExample\bin\Debug\AnonymousTypeExample.pdb
+D:\absjbd - 157540\Advanced topics C# (03.02.17)\AnonymousTypeExample\AnonymousTypeExample\obj\Debug\AnonymousTypeExample.csprojResolveAssemblyReference.cache
+D:\absjbd - 157540\Advanced topics C# (03.02.17)\AnonymousTypeExample\AnonymousTypeExample\obj\Debug\AnonymousTypeExample.exe
+D:\absjbd - 157540\Advanced topics C# (03.02.17)\AnonymousTypeExample\AnonymousTypeExample\obj\Debug\AnonymousTypeExample.pdb

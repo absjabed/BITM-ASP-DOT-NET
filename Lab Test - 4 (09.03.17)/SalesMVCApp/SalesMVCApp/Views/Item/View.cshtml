@@ -1,0 +1,95 @@
+﻿@using SalesMVCApp.Models
+
+@{
+    Layout = null;
+
+    List<Items> itemss = ViewBag.Items;
+    List<ItemSold> itemssList = ViewBag.ItemSold;
+    
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>View</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <div class="row">
+            <div class="col-sm-2" style="padding-top: 50px">
+                <ul class="nav nav-pills nav-stacked" style="padding-top: 50px">
+                    <li>@Html.ActionLink("Home", "Index", "Item")</li>
+                    <li>@Html.ActionLink("Save", "Save", "Item")</li>
+                    <li class="active">@Html.ActionLink("View", "View", "Item")</li>
+                </ul>
+            </div>
+            <div class="col-sm-6" style="padding-top: 50px">
+                <div class="panel panel-primary">
+                    <div class="panel-heading">Select Category</div>
+                    <div class="panel-body">
+                        <form name="myform" action="" method="post">
+                            <table align="center">
+                                <tr>
+                                    <td>
+                                        <label for="ItemId">Item:</label>
+                                    </td>
+                                    <td>
+                                        <select class="form-control" id="ItemId" name="ItemId" onchange="this.form.submit()">
+                                            <option value="">--Select--</option>
+                                            @foreach (var items in itemss)
+                                            {
+                                                <option value="@items.Id">@items.Name</option>
+                                            }
+                                        </select>
+                                    </td>
+                                </tr>
+                            </table>
+                        </form>
+
+
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4"></div>
+        </div> 
+        <div class="row">
+            <div class="col-sm-2"></div>
+            <div class="col-sm-8">
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>SL#</th>
+                            <th>Coustomer Name</th>
+                            <th>Quantity</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @{
+                            int counter = 1;
+                            int vals = 0;
+                        }
+                        @foreach (ItemSold item in itemssList)
+                        {
+                            <tr>
+                                <td>@counter</td>
+                                <td>@item.CustomerName</td>
+                                <td>@item.Quantity</td>
+                            </tr>
+                            counter++;
+                            vals += item.Quantity;
+                        }
+                    </tbody>
+                </table>
+                <div>Total Sold Quantity = @vals</div>
+            </div>
+            <div class="col-sm-2"></div>
+        </div> 
+    </div>
+    <script src="~/Scripts/bootstrap.js"></script>
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+</body>
+</html>

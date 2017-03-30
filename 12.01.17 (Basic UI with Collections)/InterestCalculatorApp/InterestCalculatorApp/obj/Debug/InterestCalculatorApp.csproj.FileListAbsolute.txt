@@ -1,0 +1,18 @@
+D:\absjbd - 157540\12.01.17\InterestCalculatorApp\InterestCalculatorApp\bin\Debug\InterestCalculatorApp.exe.config
+D:\absjbd - 157540\12.01.17\InterestCalculatorApp\InterestCalculatorApp\obj\Debug\InterestCalculatorApp.csprojResolveAssemblyReference.cache
+D:\absjbd - 157540\12.01.17\InterestCalculatorApp\InterestCalculatorApp\obj\Debug\InterestCalculatorApp.MainUI.resources
+D:\absjbd - 157540\12.01.17\InterestCalculatorApp\InterestCalculatorApp\obj\Debug\InterestCalculatorApp.Properties.Resources.resources
+D:\absjbd - 157540\12.01.17\InterestCalculatorApp\InterestCalculatorApp\obj\Debug\InterestCalculatorApp.csproj.GenerateResource.Cache
+D:\absjbd - 157540\12.01.17\InterestCalculatorApp\InterestCalculatorApp\bin\Debug\InterestCalculatorApp.exe
+D:\absjbd - 157540\12.01.17\InterestCalculatorApp\InterestCalculatorApp\bin\Debug\InterestCalculatorApp.pdb
+D:\absjbd - 157540\12.01.17\InterestCalculatorApp\InterestCalculatorApp\obj\Debug\InterestCalculatorApp.exe
+D:\absjbd - 157540\12.01.17\InterestCalculatorApp\InterestCalculatorApp\obj\Debug\InterestCalculatorApp.pdb
+C:\Users\abs.jabed\Desktop\12.01.17\InterestCalculatorApp\InterestCalculatorApp\bin\Debug\InterestCalculatorApp.exe.config
+C:\Users\abs.jabed\Desktop\12.01.17\InterestCalculatorApp\InterestCalculatorApp\obj\Debug\InterestCalculatorApp.exe
+C:\Users\abs.jabed\Desktop\12.01.17\InterestCalculatorApp\InterestCalculatorApp\obj\Debug\InterestCalculatorApp.pdb
+C:\Users\abs.jabed\Desktop\12.01.17\InterestCalculatorApp\InterestCalculatorApp\bin\Debug\InterestCalculatorApp.exe
+C:\Users\abs.jabed\Desktop\12.01.17\InterestCalculatorApp\InterestCalculatorApp\bin\Debug\InterestCalculatorApp.pdb
+C:\Users\abs.jabed\Desktop\12.01.17\InterestCalculatorApp\InterestCalculatorApp\obj\Debug\InterestCalculatorApp.csprojResolveAssemblyReference.cache
+C:\Users\abs.jabed\Desktop\12.01.17\InterestCalculatorApp\InterestCalculatorApp\obj\Debug\InterestCalculatorApp.MainUI.resources
+C:\Users\abs.jabed\Desktop\12.01.17\InterestCalculatorApp\InterestCalculatorApp\obj\Debug\InterestCalculatorApp.Properties.Resources.resources
+C:\Users\abs.jabed\Desktop\12.01.17\InterestCalculatorApp\InterestCalculatorApp\obj\Debug\InterestCalculatorApp.csproj.GenerateResource.Cache

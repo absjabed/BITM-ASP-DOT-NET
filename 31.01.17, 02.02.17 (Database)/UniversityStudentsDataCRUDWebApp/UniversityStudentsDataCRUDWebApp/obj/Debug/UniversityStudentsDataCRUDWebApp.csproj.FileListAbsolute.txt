@@ -1,0 +1,6 @@
+C:\Users\abs.jabed\Desktop\blah\ASP WebApp Project 2\UniversityStudentsDataCRUDWebApp\UniversityStudentsDataCRUDWebApp\bin\UniversityStudentsDataCRUDWebApp.dll.config
+C:\Users\abs.jabed\Desktop\blah\ASP WebApp Project 2\UniversityStudentsDataCRUDWebApp\UniversityStudentsDataCRUDWebApp\bin\UniversityStudentsDataCRUDWebApp.dll
+C:\Users\abs.jabed\Desktop\blah\ASP WebApp Project 2\UniversityStudentsDataCRUDWebApp\UniversityStudentsDataCRUDWebApp\bin\UniversityStudentsDataCRUDWebApp.pdb
+C:\Users\abs.jabed\Desktop\blah\ASP WebApp Project 2\UniversityStudentsDataCRUDWebApp\UniversityStudentsDataCRUDWebApp\obj\Debug\UniversityStudentsDataCRUDWebApp.csprojResolveAssemblyReference.cache
+C:\Users\abs.jabed\Desktop\blah\ASP WebApp Project 2\UniversityStudentsDataCRUDWebApp\UniversityStudentsDataCRUDWebApp\obj\Debug\UniversityStudentsDataCRUDWebApp.dll
+C:\Users\abs.jabed\Desktop\blah\ASP WebApp Project 2\UniversityStudentsDataCRUDWebApp\UniversityStudentsDataCRUDWebApp\obj\Debug\UniversityStudentsDataCRUDWebApp.pdb

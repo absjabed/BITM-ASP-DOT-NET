@@ -1,0 +1,6 @@
+D:\absjbd - 157540\08.01.17\ListIntroApp\ListIntroApp\bin\Debug\ListIntroApp.exe.config
+D:\absjbd - 157540\08.01.17\ListIntroApp\ListIntroApp\bin\Debug\ListIntroApp.exe
+D:\absjbd - 157540\08.01.17\ListIntroApp\ListIntroApp\bin\Debug\ListIntroApp.pdb
+D:\absjbd - 157540\08.01.17\ListIntroApp\ListIntroApp\obj\Debug\ListIntroApp.csprojResolveAssemblyReference.cache
+D:\absjbd - 157540\08.01.17\ListIntroApp\ListIntroApp\obj\Debug\ListIntroApp.exe
+D:\absjbd - 157540\08.01.17\ListIntroApp\ListIntroApp\obj\Debug\ListIntroApp.pdb

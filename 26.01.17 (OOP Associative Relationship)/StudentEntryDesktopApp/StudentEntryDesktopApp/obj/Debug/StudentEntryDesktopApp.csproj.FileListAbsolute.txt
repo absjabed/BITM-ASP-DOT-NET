@@ -1,0 +1,9 @@
+D:\absjbd - 157540\26.01.17 (OOP Associative Relationship)\StudentEntryDesktopApp\StudentEntryDesktopApp\bin\Debug\StudentEntryDesktopApp.exe.config
+D:\absjbd - 157540\26.01.17 (OOP Associative Relationship)\StudentEntryDesktopApp\StudentEntryDesktopApp\bin\Debug\StudentEntryDesktopApp.exe
+D:\absjbd - 157540\26.01.17 (OOP Associative Relationship)\StudentEntryDesktopApp\StudentEntryDesktopApp\bin\Debug\StudentEntryDesktopApp.pdb
+D:\absjbd - 157540\26.01.17 (OOP Associative Relationship)\StudentEntryDesktopApp\StudentEntryDesktopApp\obj\Debug\StudentEntryDesktopApp.csprojResolveAssemblyReference.cache
+D:\absjbd - 157540\26.01.17 (OOP Associative Relationship)\StudentEntryDesktopApp\StudentEntryDesktopApp\obj\Debug\StudentEntryDesktopApp.MainUI.resources
+D:\absjbd - 157540\26.01.17 (OOP Associative Relationship)\StudentEntryDesktopApp\StudentEntryDesktopApp\obj\Debug\StudentEntryDesktopApp.Properties.Resources.resources
+D:\absjbd - 157540\26.01.17 (OOP Associative Relationship)\StudentEntryDesktopApp\StudentEntryDesktopApp\obj\Debug\StudentEntryDesktopApp.csproj.GenerateResource.Cache
+D:\absjbd - 157540\26.01.17 (OOP Associative Relationship)\StudentEntryDesktopApp\StudentEntryDesktopApp\obj\Debug\StudentEntryDesktopApp.exe
+D:\absjbd - 157540\26.01.17 (OOP Associative Relationship)\StudentEntryDesktopApp\StudentEntryDesktopApp\obj\Debug\StudentEntryDesktopApp.pdb

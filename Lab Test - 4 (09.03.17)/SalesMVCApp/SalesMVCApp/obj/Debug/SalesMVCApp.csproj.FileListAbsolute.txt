@@ -1,0 +1,165 @@
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\SalesMVCApp.dll.config
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\SalesMVCApp.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\SalesMVCApp.pdb
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Antlr3.Runtime.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\EntityFramework.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\EntityFramework.SqlServer.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.Google.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Web.Infrastructure.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Newtonsoft.Json.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Owin.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.Helpers.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.Mvc.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.Optimization.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.Razor.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.WebPages.Deployment.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.WebPages.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.WebPages.Razor.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\WebGrease.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.Helpers.xml
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.Mvc.xml
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.Optimization.xml
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.Razor.xml
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.WebPages.xml
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.WebPages.Deployment.xml
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.WebPages.Razor.xml
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Newtonsoft.Json.xml
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Antlr3.Runtime.pdb
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\EntityFramework.xml
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\EntityFramework.SqlServer.xml
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.xml
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.xml
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.Google.xml
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\obj\Debug\SalesMVCApp.csprojResolveAssemblyReference.cache
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\obj\Debug\SalesMVCApp.dll
+D:\absjbd - 157540\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\obj\Debug\SalesMVCApp.pdb
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\SalesMVCApp.dll.config
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\SalesMVCApp.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\SalesMVCApp.pdb
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Antlr3.Runtime.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\EntityFramework.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\EntityFramework.SqlServer.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.Google.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Newtonsoft.Json.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Owin.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.Helpers.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.Mvc.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.Optimization.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.Razor.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.WebPages.Deployment.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.WebPages.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.WebPages.Razor.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\WebGrease.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.Helpers.xml
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.Mvc.xml
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.Optimization.xml
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.Razor.xml
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.WebPages.xml
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.WebPages.Deployment.xml
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.WebPages.Razor.xml
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Newtonsoft.Json.xml
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Antlr3.Runtime.pdb
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\EntityFramework.xml
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\EntityFramework.SqlServer.xml
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.xml
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.xml
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.Google.xml
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\obj\Debug\SalesMVCApp.csprojResolveAssemblyReference.cache
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\obj\Debug\SalesMVCApp.dll
+D:\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\obj\Debug\SalesMVCApp.pdb
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\SalesMVCApp.dll.config
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\SalesMVCApp.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\SalesMVCApp.pdb
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Antlr3.Runtime.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\EntityFramework.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\EntityFramework.SqlServer.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Newtonsoft.Json.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Owin.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.Helpers.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.Mvc.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.Optimization.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.Razor.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.WebPages.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\WebGrease.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.Helpers.xml
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.Mvc.xml
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.Optimization.xml
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.Razor.xml
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.WebPages.xml
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Newtonsoft.Json.xml
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Antlr3.Runtime.pdb
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\EntityFramework.xml
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\EntityFramework.SqlServer.xml
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.xml
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.xml
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\obj\Debug\SalesMVCApp.csprojResolveAssemblyReference.cache
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\obj\Debug\SalesMVCApp.dll
+C:\Users\abs.jabed\Desktop\Lab Test - 4 (09.03.17)\SalesMVCApp\SalesMVCApp\obj\Debug\SalesMVCApp.pdb

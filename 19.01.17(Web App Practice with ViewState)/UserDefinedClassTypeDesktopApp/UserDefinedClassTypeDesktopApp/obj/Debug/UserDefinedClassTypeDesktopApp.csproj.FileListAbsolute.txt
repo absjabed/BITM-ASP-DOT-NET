@@ -1,0 +1,9 @@
+D:\absjbd - 157540\19.01.17\UserDefinedClassTypeDesktopApp\UserDefinedClassTypeDesktopApp\bin\Debug\UserDefinedClassTypeDesktopApp.exe.config
+D:\absjbd - 157540\19.01.17\UserDefinedClassTypeDesktopApp\UserDefinedClassTypeDesktopApp\bin\Debug\UserDefinedClassTypeDesktopApp.exe
+D:\absjbd - 157540\19.01.17\UserDefinedClassTypeDesktopApp\UserDefinedClassTypeDesktopApp\bin\Debug\UserDefinedClassTypeDesktopApp.pdb
+D:\absjbd - 157540\19.01.17\UserDefinedClassTypeDesktopApp\UserDefinedClassTypeDesktopApp\obj\Debug\UserDefinedClassTypeDesktopApp.csprojResolveAssemblyReference.cache
+D:\absjbd - 157540\19.01.17\UserDefinedClassTypeDesktopApp\UserDefinedClassTypeDesktopApp\obj\Debug\UserDefinedClassTypeDesktopApp.MainUI.resources
+D:\absjbd - 157540\19.01.17\UserDefinedClassTypeDesktopApp\UserDefinedClassTypeDesktopApp\obj\Debug\UserDefinedClassTypeDesktopApp.Properties.Resources.resources
+D:\absjbd - 157540\19.01.17\UserDefinedClassTypeDesktopApp\UserDefinedClassTypeDesktopApp\obj\Debug\UserDefinedClassTypeDesktopApp.csproj.GenerateResource.Cache
+D:\absjbd - 157540\19.01.17\UserDefinedClassTypeDesktopApp\UserDefinedClassTypeDesktopApp\obj\Debug\UserDefinedClassTypeDesktopApp.exe
+D:\absjbd - 157540\19.01.17\UserDefinedClassTypeDesktopApp\UserDefinedClassTypeDesktopApp\obj\Debug\UserDefinedClassTypeDesktopApp.pdb

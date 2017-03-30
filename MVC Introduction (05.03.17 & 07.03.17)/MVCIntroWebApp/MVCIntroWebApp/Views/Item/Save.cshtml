@@ -1,0 +1,109 @@
+﻿@using MVCIntroWebApp.Models
+
+@{
+    Layout = null;
+    List<Category> categories = ViewBag.Categories;
+    AlertType alertType = ViewBag.Alert;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Save</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <style>
+        label.error {
+            color: red;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+<div class="row">
+    <div class="col-sm-4"></div>
+    <div class="col-sm-4" style="padding-top: 50px">
+        
+        <div class="panel panel-primary">
+            <div class="panel-heading">Save Item</div>
+            <div class="panel-body">
+
+                <form method="POST" id="saveForm">
+                    @if (ViewBag.Alert != null)
+                    {
+                        <div class="alert alert-@alertType.MessageType">@alertType.Message</div>
+                    }
+                    <table align="center">
+                        <tr>
+                            <td>
+                                <label for="Name">Name:</label>
+                            </td>
+                            <td>
+                                <input class="form-control" type="text" id="Name" name="Name"/>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="Price">Price:</label>
+                            </td>
+                            <td>
+                                <input class="form-control" type="text" id="Price" name="Price"/>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="CategoryId">Category:</label>
+                            </td>
+                            <td>
+                                <select class="form-control" id="CategoryId" name="CategoryId">
+                                    <option value="">--Select--</option>
+                                    @foreach (var category in categories)
+                                    {
+                                        <option value="@category.Id">@category.Name</option>
+                                    }
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>
+                                <input class="btn btn-success btn-block" type="submit" value="Save"/>
+                            </td>
+                        </tr>
+                    </table>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-4"></div>
+    
+</div>
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/jquery.validate.js"></script>
+<script>
+    $().ready(function() {
+
+        $("#saveForm").validate({
+            rules: {
+                Name: "required",
+                Price: {
+                    required: true,
+                    number: true
+                },
+                CategoryId: "required"
+            },
+            messages: {
+                Name: "Please enter item name.",
+                Price: {
+                    required: "Please enter item price.",
+                    number: "Price Must be a number"
+                },
+                CategoryId: "Please select a category"
+            }
+        });
+
+    });
+</script>
+</body>
+</html>

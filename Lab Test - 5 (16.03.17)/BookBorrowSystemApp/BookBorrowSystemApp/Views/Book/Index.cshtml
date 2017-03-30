@@ -1,0 +1,42 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body >
+    <div class="col-lg-4">
+        <fieldset>
+            <legend>
+                Home
+            </legend>
+            <h4 class="label">
+                @Html.ActionLink("Book Entry", "SaveBook")
+                <br/>
+            </h4>
+            <h4 class="label">
+                @Html.ActionLink("Member Entry", "AddMember")
+                <br/>
+            </h4>
+            <h4 class="label">
+                @Html.ActionLink("Borrow Book", "BorrowBook")
+                <br/>
+            </h4>
+            <h4 class="label">
+                @Html.ActionLink("Return Book", "ReturnBook")
+            </h4>
+        </fieldset>
+    </div>
+    <script src="~/Scripts/bootstrap.js"></script>
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+</body>
+</html>

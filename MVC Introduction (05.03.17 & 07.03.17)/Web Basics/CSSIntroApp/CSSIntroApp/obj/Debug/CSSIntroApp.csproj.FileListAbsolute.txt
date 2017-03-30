@@ -1,0 +1,6 @@
+E:\SEIP.NET\Batch 38\14-02-2017\CSSIntroApp\CSSIntroApp\bin\CSSIntroApp.dll.config
+E:\SEIP.NET\Batch 38\14-02-2017\CSSIntroApp\CSSIntroApp\bin\CSSIntroApp.dll
+E:\SEIP.NET\Batch 38\14-02-2017\CSSIntroApp\CSSIntroApp\bin\CSSIntroApp.pdb
+E:\SEIP.NET\Batch 38\14-02-2017\CSSIntroApp\CSSIntroApp\obj\Debug\CSSIntroApp.csprojResolveAssemblyReference.cache
+E:\SEIP.NET\Batch 38\14-02-2017\CSSIntroApp\CSSIntroApp\obj\Debug\CSSIntroApp.dll
+E:\SEIP.NET\Batch 38\14-02-2017\CSSIntroApp\CSSIntroApp\obj\Debug\CSSIntroApp.pdb

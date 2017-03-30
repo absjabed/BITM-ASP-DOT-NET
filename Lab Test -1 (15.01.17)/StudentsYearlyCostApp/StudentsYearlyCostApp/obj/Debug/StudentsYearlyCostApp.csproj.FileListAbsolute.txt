@@ -1,0 +1,9 @@
+D:\absjbd - 157540\Lab Test -1 (15.01.17)\StudentsYearlyCostApp\StudentsYearlyCostApp\bin\Debug\StudentsYearlyCostApp.exe.config
+D:\absjbd - 157540\Lab Test -1 (15.01.17)\StudentsYearlyCostApp\StudentsYearlyCostApp\bin\Debug\StudentsYearlyCostApp.exe
+D:\absjbd - 157540\Lab Test -1 (15.01.17)\StudentsYearlyCostApp\StudentsYearlyCostApp\bin\Debug\StudentsYearlyCostApp.pdb
+D:\absjbd - 157540\Lab Test -1 (15.01.17)\StudentsYearlyCostApp\StudentsYearlyCostApp\obj\Debug\StudentsYearlyCostApp.csprojResolveAssemblyReference.cache
+D:\absjbd - 157540\Lab Test -1 (15.01.17)\StudentsYearlyCostApp\StudentsYearlyCostApp\obj\Debug\StudentsYearlyCostApp.MainUI.resources
+D:\absjbd - 157540\Lab Test -1 (15.01.17)\StudentsYearlyCostApp\StudentsYearlyCostApp\obj\Debug\StudentsYearlyCostApp.Properties.Resources.resources
+D:\absjbd - 157540\Lab Test -1 (15.01.17)\StudentsYearlyCostApp\StudentsYearlyCostApp\obj\Debug\StudentsYearlyCostApp.csproj.GenerateResource.Cache
+D:\absjbd - 157540\Lab Test -1 (15.01.17)\StudentsYearlyCostApp\StudentsYearlyCostApp\obj\Debug\StudentsYearlyCostApp.exe
+D:\absjbd - 157540\Lab Test -1 (15.01.17)\StudentsYearlyCostApp\StudentsYearlyCostApp\obj\Debug\StudentsYearlyCostApp.pdb

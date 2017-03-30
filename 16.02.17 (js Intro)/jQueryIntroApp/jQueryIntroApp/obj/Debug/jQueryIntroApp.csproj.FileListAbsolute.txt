@@ -1,0 +1,6 @@
+D:\absjbd - 157540\16.02.17 (js Intro)\jQueryIntroApp\jQueryIntroApp\bin\jQueryIntroApp.dll.config
+D:\absjbd - 157540\16.02.17 (js Intro)\jQueryIntroApp\jQueryIntroApp\bin\jQueryIntroApp.dll
+D:\absjbd - 157540\16.02.17 (js Intro)\jQueryIntroApp\jQueryIntroApp\bin\jQueryIntroApp.pdb
+D:\absjbd - 157540\16.02.17 (js Intro)\jQueryIntroApp\jQueryIntroApp\obj\Debug\jQueryIntroApp.csprojResolveAssemblyReference.cache
+D:\absjbd - 157540\16.02.17 (js Intro)\jQueryIntroApp\jQueryIntroApp\obj\Debug\jQueryIntroApp.dll
+D:\absjbd - 157540\16.02.17 (js Intro)\jQueryIntroApp\jQueryIntroApp\obj\Debug\jQueryIntroApp.pdb

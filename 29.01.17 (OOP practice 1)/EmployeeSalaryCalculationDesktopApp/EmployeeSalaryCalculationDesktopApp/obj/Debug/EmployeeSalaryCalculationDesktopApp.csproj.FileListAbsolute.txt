@@ -1,0 +1,9 @@
+D:\absjbd - 157540\29.01.17 (OOP practice 1)\EmployeeSalaryCalculationDesktopApp\EmployeeSalaryCalculationDesktopApp\bin\Debug\EmployeeSalaryCalculationDesktopApp.exe.config
+D:\absjbd - 157540\29.01.17 (OOP practice 1)\EmployeeSalaryCalculationDesktopApp\EmployeeSalaryCalculationDesktopApp\bin\Debug\EmployeeSalaryCalculationDesktopApp.exe
+D:\absjbd - 157540\29.01.17 (OOP practice 1)\EmployeeSalaryCalculationDesktopApp\EmployeeSalaryCalculationDesktopApp\bin\Debug\EmployeeSalaryCalculationDesktopApp.pdb
+D:\absjbd - 157540\29.01.17 (OOP practice 1)\EmployeeSalaryCalculationDesktopApp\EmployeeSalaryCalculationDesktopApp\obj\Debug\EmployeeSalaryCalculationDesktopApp.csprojResolveAssemblyReference.cache
+D:\absjbd - 157540\29.01.17 (OOP practice 1)\EmployeeSalaryCalculationDesktopApp\EmployeeSalaryCalculationDesktopApp\obj\Debug\EmployeeSalaryCalculationDesktopApp.MainUI.resources
+D:\absjbd - 157540\29.01.17 (OOP practice 1)\EmployeeSalaryCalculationDesktopApp\EmployeeSalaryCalculationDesktopApp\obj\Debug\EmployeeSalaryCalculationDesktopApp.Properties.Resources.resources
+D:\absjbd - 157540\29.01.17 (OOP practice 1)\EmployeeSalaryCalculationDesktopApp\EmployeeSalaryCalculationDesktopApp\obj\Debug\EmployeeSalaryCalculationDesktopApp.csproj.GenerateResource.Cache
+D:\absjbd - 157540\29.01.17 (OOP practice 1)\EmployeeSalaryCalculationDesktopApp\EmployeeSalaryCalculationDesktopApp\obj\Debug\EmployeeSalaryCalculationDesktopApp.exe
+D:\absjbd - 157540\29.01.17 (OOP practice 1)\EmployeeSalaryCalculationDesktopApp\EmployeeSalaryCalculationDesktopApp\obj\Debug\EmployeeSalaryCalculationDesktopApp.pdb

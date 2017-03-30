@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>js OOP Intro</title>
+</head>
+<body>
+    <!--<script src="Person.js"></script>-->
+<script>
+    //Constructor Function
+    var Person = function() {
+        this.FirstName = "Elon";
+        this.LastName = "Musk";
+
+        this.GetFullName = function() {
+            return this.FirstName + " " + this.LastName;
+        };
+    };
+
+    Person.prototype.Country = "Canada";
+
+    var person1 = new Person();
+    console.log(person1.GetFullName());
+    console.log(person1["FirstName"]);
+    console.log(person1.Country);
+
+    var person2 = new Person();
+    console.log(person2.Country);
+
+    var Vehicle = function (companyName, model, price) {
+        this.CompanyName = companyName;
+        this.Model = model;
+        this.Price = price;
+
+        this.GetVehicleInfo = function () {
+            return this.CompanyName + " " + this.Model + " " + this.Price;
+        };
+    };
+
+    var car = new Vehicle("Tesla", "Model-S", "$80000");
+    car.WheelNumber = 4;
+    console.log(car.GetVehicleInfo());
+    console.log(car.WheelNumber);
+
+    var truck = new Vehicle("Volvo", "A320", "$10000000");
+    //console.log(truck.WheelNumber);
+
+    //Object Literal / Function Literal
+    var Mobile = {
+        Name: "Nokia",
+        ModelNo: "Lumia 620",
+
+        GetMobileInfo: function() {
+            return this.Name + " " + this.ModelNo;
+        }
+    };
+    Mobile.Price = "12000TK";
+
+    console.log(Mobile.GetMobileInfo());
+    console.log(Mobile["Name"]);
+    console.log(Mobile.Price);
+</script>
+</body>
+</html>

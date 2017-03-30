@@ -1,0 +1,6 @@
+E:\SEIP.NET\Batch 38\14-02-2017\WebDesignApp\WebDesignApp\bin\WebDesignApp.dll.config
+E:\SEIP.NET\Batch 38\14-02-2017\WebDesignApp\WebDesignApp\bin\WebDesignApp.dll
+E:\SEIP.NET\Batch 38\14-02-2017\WebDesignApp\WebDesignApp\bin\WebDesignApp.pdb
+E:\SEIP.NET\Batch 38\14-02-2017\WebDesignApp\WebDesignApp\obj\Debug\WebDesignApp.csprojResolveAssemblyReference.cache
+E:\SEIP.NET\Batch 38\14-02-2017\WebDesignApp\WebDesignApp\obj\Debug\WebDesignApp.dll
+E:\SEIP.NET\Batch 38\14-02-2017\WebDesignApp\WebDesignApp\obj\Debug\WebDesignApp.pdb

@@ -1,0 +1,138 @@
+﻿body {
+}
+
+.wrapper {
+    width: 960px;
+    margin: 0 auto;
+    /*float: left;*/
+}
+
+header {
+    width: 960px;
+    /*border: 20px solid black;*/
+    float: left;
+}
+
+.logo {
+    width: 260px;
+    height: 100px;
+    background: lavender;
+    float: left;
+}
+
+.banner {
+    width: 700px;
+    height: 100px;
+    background: blueviolet;
+    float: left;
+}
+
+nav {
+    width: 960px;
+}
+
+nav ul {
+    
+}
+
+nav ul li {
+    display: inline;
+    background: black;
+    float: left;
+}
+
+nav ul li a {
+    width: 190px;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    border: 1px solid blue;
+    text-transform: uppercase;
+    padding: 10px 0;
+    font-family: 'Abril Fatface', cursive;
+
+}
+
+nav ul li a:hover {
+    background: white;
+    color: black;
+}
+
+.container {
+    width: 960px;
+    float: left;
+}
+
+.content {
+    width: 600px;
+    float: left;
+}
+
+aside {
+    width: 360px;
+    float: left;
+}
+
+.content article {
+    width: 576px;
+    border: 2px solid black;
+    margin-top: 10px;
+    padding: 10px;
+    margin-bottom: 5px;
+    background: coral;
+}
+
+.content article h1 {
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+}
+
+.content article p {
+    padding-bottom: 10px;
+    text-align: justify;
+}
+
+.container aside {
+    width: 340px;
+    padding: 10px;
+}
+
+.container aside section {
+    width: 316px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+    padding: 10px;
+    background: dodgerblue;
+}
+
+.container aside section h1 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+.container aside section p {
+    padding-bottom: 10px;
+    text-align: justify;
+}
+
+footer {
+    text-align: center;
+    background: black;
+    color: white;
+    clear: both;
+}
+
+h1 {
+    font-family: 'Sansita', sans-serif;
+}
+
+p {
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+}

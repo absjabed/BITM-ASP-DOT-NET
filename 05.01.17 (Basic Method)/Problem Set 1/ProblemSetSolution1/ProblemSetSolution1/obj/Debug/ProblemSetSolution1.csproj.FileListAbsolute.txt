@@ -1,0 +1,5 @@
+D:\absjbd - 157540\05.01.17\Problem Set 1\ProblemSetSolution1\ProblemSetSolution1\bin\Debug\ProblemSetSolution1.exe.config
+D:\absjbd - 157540\05.01.17\Problem Set 1\ProblemSetSolution1\ProblemSetSolution1\bin\Debug\ProblemSetSolution1.exe
+D:\absjbd - 157540\05.01.17\Problem Set 1\ProblemSetSolution1\ProblemSetSolution1\bin\Debug\ProblemSetSolution1.pdb
+D:\absjbd - 157540\05.01.17\Problem Set 1\ProblemSetSolution1\ProblemSetSolution1\obj\Debug\ProblemSetSolution1.exe
+D:\absjbd - 157540\05.01.17\Problem Set 1\ProblemSetSolution1\ProblemSetSolution1\obj\Debug\ProblemSetSolution1.pdb

@@ -1,0 +1,6 @@
+D:\absjbd - 157540\14.02.17 (Basic css Intro)\CSSIntroApp\CSSIntroApp\bin\CSSIntroApp.dll.config
+D:\absjbd - 157540\14.02.17 (Basic css Intro)\CSSIntroApp\CSSIntroApp\bin\CSSIntroApp.dll
+D:\absjbd - 157540\14.02.17 (Basic css Intro)\CSSIntroApp\CSSIntroApp\bin\CSSIntroApp.pdb
+D:\absjbd - 157540\14.02.17 (Basic css Intro)\CSSIntroApp\CSSIntroApp\obj\Debug\CSSIntroApp.dll
+D:\absjbd - 157540\14.02.17 (Basic css Intro)\CSSIntroApp\CSSIntroApp\obj\Debug\CSSIntroApp.pdb
+D:\absjbd - 157540\14.02.17 (Basic css Intro)\CSSIntroApp\CSSIntroApp\obj\Debug\CSSIntroApp.csprojResolveAssemblyReference.cache

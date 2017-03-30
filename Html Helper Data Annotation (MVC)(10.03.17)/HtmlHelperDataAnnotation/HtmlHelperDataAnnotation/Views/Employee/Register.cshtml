@@ -1,0 +1,60 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Register</title>
+    <script src="~/Scripts/bootstrap.js"></script>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm(null, null, FormMethod.Post, new {id = "myForm"}))
+        {
+            <fieldset>
+                <legend>Register Form</legend>
+                <table>
+                    <tr>
+                        <td>@Html.Label("Name")</td>
+                        <td>@Html.TextBox("Name", new { @class = "form-control" })</td>
+                    </tr>
+                    <tr>
+                        <td>@Html.Label("Email")</td>
+                        <td>@Html.TextBox("Email")</td>
+                    </tr>
+                    <tr>
+                        <td>@Html.Label("Gender")</td>
+                        <td>
+                            @Html.RadioButton("Gender","Female") Female
+                            @Html.RadioButton("Gender", "Male") Male                        
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>@Html.Label("Department")</td>
+                        <td>@Html.DropDownList("Department", new SelectList(ViewBag.Departments,"Value","Text"))</td>
+                    </tr>
+                    <tr>
+                        <td>@Html.Label("Address")</td>
+                        <td>@Html.TextArea("Address")</td>
+                    </tr>
+                    <tr>
+                        <td>@Html.Label("Password")</td>
+                        <td>@Html.Password("Password")</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input type="submit" value="Register"/>
+                        </td>
+                    </tr>
+                </table>
+            </fieldset>
+        } 
+    </div>
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+</body>
+</html>

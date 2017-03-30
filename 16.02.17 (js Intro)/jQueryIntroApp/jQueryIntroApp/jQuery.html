@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+
+    <button id="clickButton">Click ME</button>
+    <h1 id="message"> Hello jQuery</h1>
+
+    <form id="mainForm">
+
+        <table>
+            <tr>
+                <td>
+                    <label for="name">Name:</label>
+                </td>
+                <td>
+                    <input type="text" id="name" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="country">Country</label>
+                </td>
+                <td>
+                    <select id="country">
+                        <option value="BD">Bangladesh</option>
+                        <option value="AU">Australia</option>
+                        <option value="SA">South Africa</option>
+                        <option value="USA">United States Of America</option>
+                        <option value="US">United Kingdom</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <input type="submit" value="Save" />
+                </td>
+            </tr>
+        </table>
+
+
+
+    </form>
+    <script src="Scripts/jquery-3.1.1.js"></script>
+    <script>
+
+        $(document).ready(function () {
+
+            $("#clickButton").click(function () {
+                //$("#message").hide(2000);
+                $("#message").toggle(2000);
+            });
+
+
+            $("#clickButton").hover(function () {
+                $("#message").hide(1500);
+            }, function () {
+                $("#message").show(1500);
+            });
+
+
+            $("#mainForm").submit(function () {
+                var name = $("#name").val();
+                var country = $("#country").val();
+
+                alert("Name: " + name + " Country: " + country);
+                return false;
+            });
+
+
+        });
+
+
+    </script>
+</body>
+</html>

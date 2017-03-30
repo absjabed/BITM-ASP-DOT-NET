@@ -1,0 +1,6 @@
+D:\absjbd - 157540\05.01.17\AddSubstructMultiplyDivide\AddSubstructMultiplyDivide\bin\Debug\AddSubstructMultiplyDivide.exe.config
+D:\absjbd - 157540\05.01.17\AddSubstructMultiplyDivide\AddSubstructMultiplyDivide\bin\Debug\AddSubstructMultiplyDivide.exe
+D:\absjbd - 157540\05.01.17\AddSubstructMultiplyDivide\AddSubstructMultiplyDivide\bin\Debug\AddSubstructMultiplyDivide.pdb
+D:\absjbd - 157540\05.01.17\AddSubstructMultiplyDivide\AddSubstructMultiplyDivide\obj\Debug\AddSubstructMultiplyDivide.csprojResolveAssemblyReference.cache
+D:\absjbd - 157540\05.01.17\AddSubstructMultiplyDivide\AddSubstructMultiplyDivide\obj\Debug\AddSubstructMultiplyDivide.exe
+D:\absjbd - 157540\05.01.17\AddSubstructMultiplyDivide\AddSubstructMultiplyDivide\obj\Debug\AddSubstructMultiplyDivide.pdb

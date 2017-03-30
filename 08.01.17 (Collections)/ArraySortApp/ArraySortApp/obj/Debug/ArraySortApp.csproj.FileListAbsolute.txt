@@ -1,0 +1,5 @@
+D:\absjbd - 157540\08.01.17\ArraySortApp\ArraySortApp\bin\Debug\ArraySortApp.exe.config
+D:\absjbd - 157540\08.01.17\ArraySortApp\ArraySortApp\bin\Debug\ArraySortApp.exe
+D:\absjbd - 157540\08.01.17\ArraySortApp\ArraySortApp\bin\Debug\ArraySortApp.pdb
+D:\absjbd - 157540\08.01.17\ArraySortApp\ArraySortApp\obj\Debug\ArraySortApp.exe
+D:\absjbd - 157540\08.01.17\ArraySortApp\ArraySortApp\obj\Debug\ArraySortApp.pdb

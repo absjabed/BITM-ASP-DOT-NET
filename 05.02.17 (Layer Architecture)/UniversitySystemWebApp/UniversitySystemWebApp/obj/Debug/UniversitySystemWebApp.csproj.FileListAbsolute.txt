@@ -1,0 +1,18 @@
+D:\absjbd - 157540\31.01.17 (Database)\UniversitySystemWebApp\UniversitySystemWebApp\bin\UniversitySystemWebApp.dll.config
+D:\absjbd - 157540\31.01.17 (Database)\UniversitySystemWebApp\UniversitySystemWebApp\bin\UniversitySystemWebApp.dll
+D:\absjbd - 157540\31.01.17 (Database)\UniversitySystemWebApp\UniversitySystemWebApp\bin\UniversitySystemWebApp.pdb
+D:\absjbd - 157540\31.01.17 (Database)\UniversitySystemWebApp\UniversitySystemWebApp\obj\Debug\UniversitySystemWebApp.csprojResolveAssemblyReference.cache
+D:\absjbd - 157540\31.01.17 (Database)\UniversitySystemWebApp\UniversitySystemWebApp\obj\Debug\UniversitySystemWebApp.dll
+D:\absjbd - 157540\31.01.17 (Database)\UniversitySystemWebApp\UniversitySystemWebApp\obj\Debug\UniversitySystemWebApp.pdb
+G:\absjbd - 157540\31.01.17 (Database)\UniversitySystemWebApp\UniversitySystemWebApp\bin\UniversitySystemWebApp.dll.config
+G:\absjbd - 157540\31.01.17 (Database)\UniversitySystemWebApp\UniversitySystemWebApp\bin\UniversitySystemWebApp.dll
+G:\absjbd - 157540\31.01.17 (Database)\UniversitySystemWebApp\UniversitySystemWebApp\bin\UniversitySystemWebApp.pdb
+G:\absjbd - 157540\31.01.17 (Database)\UniversitySystemWebApp\UniversitySystemWebApp\obj\Debug\UniversitySystemWebApp.csprojResolveAssemblyReference.cache
+G:\absjbd - 157540\31.01.17 (Database)\UniversitySystemWebApp\UniversitySystemWebApp\obj\Debug\UniversitySystemWebApp.dll
+G:\absjbd - 157540\31.01.17 (Database)\UniversitySystemWebApp\UniversitySystemWebApp\obj\Debug\UniversitySystemWebApp.pdb
+D:\absjbd - 157540\05.02.17 (Layer Architecture)\UniversitySystemWebApp\UniversitySystemWebApp\bin\UniversitySystemWebApp.dll.config
+D:\absjbd - 157540\05.02.17 (Layer Architecture)\UniversitySystemWebApp\UniversitySystemWebApp\bin\UniversitySystemWebApp.dll
+D:\absjbd - 157540\05.02.17 (Layer Architecture)\UniversitySystemWebApp\UniversitySystemWebApp\bin\UniversitySystemWebApp.pdb
+D:\absjbd - 157540\05.02.17 (Layer Architecture)\UniversitySystemWebApp\UniversitySystemWebApp\obj\Debug\UniversitySystemWebApp.csprojResolveAssemblyReference.cache
+D:\absjbd - 157540\05.02.17 (Layer Architecture)\UniversitySystemWebApp\UniversitySystemWebApp\obj\Debug\UniversitySystemWebApp.dll
+D:\absjbd - 157540\05.02.17 (Layer Architecture)\UniversitySystemWebApp\UniversitySystemWebApp\obj\Debug\UniversitySystemWebApp.pdb

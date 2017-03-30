@@ -1,0 +1,5 @@
+D:\absjbd - 157540\08.01.17\UserArrayAverageApp\UserArrayAverageApp\bin\Debug\UserArrayAverageApp.exe.config
+D:\absjbd - 157540\08.01.17\UserArrayAverageApp\UserArrayAverageApp\bin\Debug\UserArrayAverageApp.exe
+D:\absjbd - 157540\08.01.17\UserArrayAverageApp\UserArrayAverageApp\bin\Debug\UserArrayAverageApp.pdb
+D:\absjbd - 157540\08.01.17\UserArrayAverageApp\UserArrayAverageApp\obj\Debug\UserArrayAverageApp.exe
+D:\absjbd - 157540\08.01.17\UserArrayAverageApp\UserArrayAverageApp\obj\Debug\UserArrayAverageApp.pdb
