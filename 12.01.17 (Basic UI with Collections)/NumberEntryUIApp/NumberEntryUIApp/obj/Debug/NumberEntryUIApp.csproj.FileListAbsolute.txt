@@ -1,9 +1,0 @@
-C:\Users\abs.jabed\Desktop\12.01.17\NumberEntryUIApp\NumberEntryUIApp\bin\Debug\NumberEntryUIApp.exe.config
-C:\Users\abs.jabed\Desktop\12.01.17\NumberEntryUIApp\NumberEntryUIApp\bin\Debug\NumberEntryUIApp.exe
-C:\Users\abs.jabed\Desktop\12.01.17\NumberEntryUIApp\NumberEntryUIApp\bin\Debug\NumberEntryUIApp.pdb
-C:\Users\abs.jabed\Desktop\12.01.17\NumberEntryUIApp\NumberEntryUIApp\obj\Debug\NumberEntryUIApp.csprojResolveAssemblyReference.cache
-C:\Users\abs.jabed\Desktop\12.01.17\NumberEntryUIApp\NumberEntryUIApp\obj\Debug\NumberEntryUIApp.MainUI.resources
-C:\Users\abs.jabed\Desktop\12.01.17\NumberEntryUIApp\NumberEntryUIApp\obj\Debug\NumberEntryUIApp.Properties.Resources.resources
-C:\Users\abs.jabed\Desktop\12.01.17\NumberEntryUIApp\NumberEntryUIApp\obj\Debug\NumberEntryUIApp.csproj.GenerateResource.Cache
-C:\Users\abs.jabed\Desktop\12.01.17\NumberEntryUIApp\NumberEntryUIApp\obj\Debug\NumberEntryUIApp.exe
-C:\Users\abs.jabed\Desktop\12.01.17\NumberEntryUIApp\NumberEntryUIApp\obj\Debug\NumberEntryUIApp.pdb

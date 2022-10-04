@@ -1,6 +1,0 @@
-D:\absjbd - 157540\27.01.17 (Inheritence Relationship)\InheritanceRelationshipBasicApp\InheritanceRelationshipBasicApp\bin\Debug\InheritanceRelationshipBasicApp.exe.config
-D:\absjbd - 157540\27.01.17 (Inheritence Relationship)\InheritanceRelationshipBasicApp\InheritanceRelationshipBasicApp\obj\Debug\InheritanceRelationshipBasicApp.csprojResolveAssemblyReference.cache
-D:\absjbd - 157540\27.01.17 (Inheritence Relationship)\InheritanceRelationshipBasicApp\InheritanceRelationshipBasicApp\bin\Debug\InheritanceRelationshipBasicApp.exe
-D:\absjbd - 157540\27.01.17 (Inheritence Relationship)\InheritanceRelationshipBasicApp\InheritanceRelationshipBasicApp\bin\Debug\InheritanceRelationshipBasicApp.pdb
-D:\absjbd - 157540\27.01.17 (Inheritence Relationship)\InheritanceRelationshipBasicApp\InheritanceRelationshipBasicApp\obj\Debug\InheritanceRelationshipBasicApp.exe
-D:\absjbd - 157540\27.01.17 (Inheritence Relationship)\InheritanceRelationshipBasicApp\InheritanceRelationshipBasicApp\obj\Debug\InheritanceRelationshipBasicApp.pdb

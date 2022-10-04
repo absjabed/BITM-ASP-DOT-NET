@@ -1,6 +1,0 @@
-D:\absjbd - 157540\05.01.17\Problem Set 1\GradingSystemAPP\GradingSystemAPP\bin\Debug\GradingSystemAPP.exe.config
-D:\absjbd - 157540\05.01.17\Problem Set 1\GradingSystemAPP\GradingSystemAPP\obj\Debug\GradingSystemAPP.csprojResolveAssemblyReference.cache
-D:\absjbd - 157540\05.01.17\Problem Set 1\GradingSystemAPP\GradingSystemAPP\bin\Debug\GradingSystemAPP.exe
-D:\absjbd - 157540\05.01.17\Problem Set 1\GradingSystemAPP\GradingSystemAPP\bin\Debug\GradingSystemAPP.pdb
-D:\absjbd - 157540\05.01.17\Problem Set 1\GradingSystemAPP\GradingSystemAPP\obj\Debug\GradingSystemAPP.exe
-D:\absjbd - 157540\05.01.17\Problem Set 1\GradingSystemAPP\GradingSystemAPP\obj\Debug\GradingSystemAPP.pdb

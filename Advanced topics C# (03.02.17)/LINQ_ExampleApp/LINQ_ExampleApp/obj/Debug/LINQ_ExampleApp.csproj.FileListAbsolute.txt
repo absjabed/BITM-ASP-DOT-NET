@@ -1,6 +1,0 @@
-D:\absjbd - 157540\Advanced topics C# (03.02.17)\LINQ_ExampleApp\LINQ_ExampleApp\bin\Debug\LINQ_ExampleApp.exe.config
-D:\absjbd - 157540\Advanced topics C# (03.02.17)\LINQ_ExampleApp\LINQ_ExampleApp\bin\Debug\LINQ_ExampleApp.exe
-D:\absjbd - 157540\Advanced topics C# (03.02.17)\LINQ_ExampleApp\LINQ_ExampleApp\bin\Debug\LINQ_ExampleApp.pdb
-D:\absjbd - 157540\Advanced topics C# (03.02.17)\LINQ_ExampleApp\LINQ_ExampleApp\obj\Debug\LINQ_ExampleApp.csprojResolveAssemblyReference.cache
-D:\absjbd - 157540\Advanced topics C# (03.02.17)\LINQ_ExampleApp\LINQ_ExampleApp\obj\Debug\LINQ_ExampleApp.exe
-D:\absjbd - 157540\Advanced topics C# (03.02.17)\LINQ_ExampleApp\LINQ_ExampleApp\obj\Debug\LINQ_ExampleApp.pdb

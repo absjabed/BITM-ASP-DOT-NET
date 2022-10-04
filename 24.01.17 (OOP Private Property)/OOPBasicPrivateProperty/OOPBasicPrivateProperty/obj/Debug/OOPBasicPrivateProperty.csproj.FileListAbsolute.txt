@@ -1,6 +1,0 @@
-D:\absjbd - 157540\24.01.17 (OOP Private Property)\OOPBasicPrivateProperty\OOPBasicPrivateProperty\bin\Debug\OOPBasicPrivateProperty.exe.config
-D:\absjbd - 157540\24.01.17 (OOP Private Property)\OOPBasicPrivateProperty\OOPBasicPrivateProperty\bin\Debug\OOPBasicPrivateProperty.exe
-D:\absjbd - 157540\24.01.17 (OOP Private Property)\OOPBasicPrivateProperty\OOPBasicPrivateProperty\bin\Debug\OOPBasicPrivateProperty.pdb
-D:\absjbd - 157540\24.01.17 (OOP Private Property)\OOPBasicPrivateProperty\OOPBasicPrivateProperty\obj\Debug\OOPBasicPrivateProperty.csprojResolveAssemblyReference.cache
-D:\absjbd - 157540\24.01.17 (OOP Private Property)\OOPBasicPrivateProperty\OOPBasicPrivateProperty\obj\Debug\OOPBasicPrivateProperty.exe
-D:\absjbd - 157540\24.01.17 (OOP Private Property)\OOPBasicPrivateProperty\OOPBasicPrivateProperty\obj\Debug\OOPBasicPrivateProperty.pdb

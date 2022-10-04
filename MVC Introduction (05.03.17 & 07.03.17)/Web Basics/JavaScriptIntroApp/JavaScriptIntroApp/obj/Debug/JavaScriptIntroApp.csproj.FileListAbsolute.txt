@@ -1,6 +1,0 @@
-E:\SEIP.NET\Batch 38\16-02-2017\JavaScriptIntroApp\JavaScriptIntroApp\bin\JavaScriptIntroApp.dll.config
-E:\SEIP.NET\Batch 38\16-02-2017\JavaScriptIntroApp\JavaScriptIntroApp\bin\JavaScriptIntroApp.dll
-E:\SEIP.NET\Batch 38\16-02-2017\JavaScriptIntroApp\JavaScriptIntroApp\bin\JavaScriptIntroApp.pdb
-E:\SEIP.NET\Batch 38\16-02-2017\JavaScriptIntroApp\JavaScriptIntroApp\obj\Debug\JavaScriptIntroApp.csprojResolveAssemblyReference.cache
-E:\SEIP.NET\Batch 38\16-02-2017\JavaScriptIntroApp\JavaScriptIntroApp\obj\Debug\JavaScriptIntroApp.dll
-E:\SEIP.NET\Batch 38\16-02-2017\JavaScriptIntroApp\JavaScriptIntroApp\obj\Debug\JavaScriptIntroApp.pdb

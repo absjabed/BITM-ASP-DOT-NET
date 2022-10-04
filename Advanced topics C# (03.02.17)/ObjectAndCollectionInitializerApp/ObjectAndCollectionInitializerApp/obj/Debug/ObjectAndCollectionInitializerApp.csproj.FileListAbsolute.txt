@@ -1,6 +1,0 @@
-D:\absjbd - 157540\Advanced topics C# (03.02.17)\ObjectAndCollectionInitializerApp\ObjectAndCollectionInitializerApp\bin\Debug\ObjectAndCollectionInitializerApp.exe.config
-D:\absjbd - 157540\Advanced topics C# (03.02.17)\ObjectAndCollectionInitializerApp\ObjectAndCollectionInitializerApp\bin\Debug\ObjectAndCollectionInitializerApp.exe
-D:\absjbd - 157540\Advanced topics C# (03.02.17)\ObjectAndCollectionInitializerApp\ObjectAndCollectionInitializerApp\bin\Debug\ObjectAndCollectionInitializerApp.pdb
-D:\absjbd - 157540\Advanced topics C# (03.02.17)\ObjectAndCollectionInitializerApp\ObjectAndCollectionInitializerApp\obj\Debug\ObjectAndCollectionInitializerApp.csprojResolveAssemblyReference.cache
-D:\absjbd - 157540\Advanced topics C# (03.02.17)\ObjectAndCollectionInitializerApp\ObjectAndCollectionInitializerApp\obj\Debug\ObjectAndCollectionInitializerApp.exe
-D:\absjbd - 157540\Advanced topics C# (03.02.17)\ObjectAndCollectionInitializerApp\ObjectAndCollectionInitializerApp\obj\Debug\ObjectAndCollectionInitializerApp.pdb

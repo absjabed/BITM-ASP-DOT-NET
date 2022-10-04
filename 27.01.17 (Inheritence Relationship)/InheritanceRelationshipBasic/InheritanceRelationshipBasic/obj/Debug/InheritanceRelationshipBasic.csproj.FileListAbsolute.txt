@@ -1,6 +1,0 @@
-E:\SEIP.NET\Batch 38\27-01-2017\InheritanceRelationshipBasic\InheritanceRelationshipBasic\bin\Debug\InheritanceRelationshipBasic.exe.config
-E:\SEIP.NET\Batch 38\27-01-2017\InheritanceRelationshipBasic\InheritanceRelationshipBasic\bin\Debug\InheritanceRelationshipBasic.exe
-E:\SEIP.NET\Batch 38\27-01-2017\InheritanceRelationshipBasic\InheritanceRelationshipBasic\bin\Debug\InheritanceRelationshipBasic.pdb
-E:\SEIP.NET\Batch 38\27-01-2017\InheritanceRelationshipBasic\InheritanceRelationshipBasic\obj\Debug\InheritanceRelationshipBasic.csprojResolveAssemblyReference.cache
-E:\SEIP.NET\Batch 38\27-01-2017\InheritanceRelationshipBasic\InheritanceRelationshipBasic\obj\Debug\InheritanceRelationshipBasic.exe
-E:\SEIP.NET\Batch 38\27-01-2017\InheritanceRelationshipBasic\InheritanceRelationshipBasic\obj\Debug\InheritanceRelationshipBasic.pdb

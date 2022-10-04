@@ -1,5 +1,0 @@
-D:\absjbd\27.12.16\ConditionalStatement\ConditionalStatement\bin\Debug\ConditionalStatement.exe.config
-D:\absjbd\27.12.16\ConditionalStatement\ConditionalStatement\bin\Debug\ConditionalStatement.exe
-D:\absjbd\27.12.16\ConditionalStatement\ConditionalStatement\bin\Debug\ConditionalStatement.pdb
-D:\absjbd\27.12.16\ConditionalStatement\ConditionalStatement\obj\Debug\ConditionalStatement.exe
-D:\absjbd\27.12.16\ConditionalStatement\ConditionalStatement\obj\Debug\ConditionalStatement.pdb

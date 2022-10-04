@@ -1,6 +1,0 @@
-C:\Users\abs.jabed\Documents\Visual Studio 2013\Projects\UniversityStudentWebApp\UniversityStudentWebApp\bin\UniversityStudentWebApp.dll.config
-C:\Users\abs.jabed\Documents\Visual Studio 2013\Projects\UniversityStudentWebApp\UniversityStudentWebApp\bin\UniversityStudentWebApp.dll
-C:\Users\abs.jabed\Documents\Visual Studio 2013\Projects\UniversityStudentWebApp\UniversityStudentWebApp\bin\UniversityStudentWebApp.pdb
-C:\Users\abs.jabed\Documents\Visual Studio 2013\Projects\UniversityStudentWebApp\UniversityStudentWebApp\obj\Debug\UniversityStudentWebApp.csprojResolveAssemblyReference.cache
-C:\Users\abs.jabed\Documents\Visual Studio 2013\Projects\UniversityStudentWebApp\UniversityStudentWebApp\obj\Debug\UniversityStudentWebApp.dll
-C:\Users\abs.jabed\Documents\Visual Studio 2013\Projects\UniversityStudentWebApp\UniversityStudentWebApp\obj\Debug\UniversityStudentWebApp.pdb

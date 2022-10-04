@@ -1,5 +1,0 @@
-D:\absjbd - 157540\08.01.17\StackIntroApp\StackIntroApp\bin\Debug\StackIntroApp.exe.config
-D:\absjbd - 157540\08.01.17\StackIntroApp\StackIntroApp\bin\Debug\StackIntroApp.exe
-D:\absjbd - 157540\08.01.17\StackIntroApp\StackIntroApp\bin\Debug\StackIntroApp.pdb
-D:\absjbd - 157540\08.01.17\StackIntroApp\StackIntroApp\obj\Debug\StackIntroApp.exe
-D:\absjbd - 157540\08.01.17\StackIntroApp\StackIntroApp\obj\Debug\StackIntroApp.pdb

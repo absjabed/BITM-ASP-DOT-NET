@@ -1,9 +1,0 @@
-C:\Users\abs.jabed\Desktop\12.01.17\CitizenInformationApp\CitizenInformationApp\bin\Debug\CitizenInformationApp.exe.config
-C:\Users\abs.jabed\Desktop\12.01.17\CitizenInformationApp\CitizenInformationApp\bin\Debug\CitizenInformationApp.exe
-C:\Users\abs.jabed\Desktop\12.01.17\CitizenInformationApp\CitizenInformationApp\bin\Debug\CitizenInformationApp.pdb
-C:\Users\abs.jabed\Desktop\12.01.17\CitizenInformationApp\CitizenInformationApp\obj\Debug\CitizenInformationApp.csprojResolveAssemblyReference.cache
-C:\Users\abs.jabed\Desktop\12.01.17\CitizenInformationApp\CitizenInformationApp\obj\Debug\CitizenInformationApp.MainUI.resources
-C:\Users\abs.jabed\Desktop\12.01.17\CitizenInformationApp\CitizenInformationApp\obj\Debug\CitizenInformationApp.Properties.Resources.resources
-C:\Users\abs.jabed\Desktop\12.01.17\CitizenInformationApp\CitizenInformationApp\obj\Debug\CitizenInformationApp.csproj.GenerateResource.Cache
-C:\Users\abs.jabed\Desktop\12.01.17\CitizenInformationApp\CitizenInformationApp\obj\Debug\CitizenInformationApp.exe
-C:\Users\abs.jabed\Desktop\12.01.17\CitizenInformationApp\CitizenInformationApp\obj\Debug\CitizenInformationApp.pdb

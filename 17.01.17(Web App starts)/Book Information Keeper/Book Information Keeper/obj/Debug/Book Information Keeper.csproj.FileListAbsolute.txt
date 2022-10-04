@@ -1,9 +1,0 @@
-D:\absjbd - 157540\17.01.17(Web App starts)\Book Information Keeper\Book Information Keeper\bin\Debug\Book Information Keeper.exe.config
-D:\absjbd - 157540\17.01.17(Web App starts)\Book Information Keeper\Book Information Keeper\bin\Debug\Book Information Keeper.exe
-D:\absjbd - 157540\17.01.17(Web App starts)\Book Information Keeper\Book Information Keeper\bin\Debug\Book Information Keeper.pdb
-D:\absjbd - 157540\17.01.17(Web App starts)\Book Information Keeper\Book Information Keeper\obj\Debug\Book Information Keeper.csprojResolveAssemblyReference.cache
-D:\absjbd - 157540\17.01.17(Web App starts)\Book Information Keeper\Book Information Keeper\obj\Debug\Book_Information_Keeper.Book_Information_Keeper.resources
-D:\absjbd - 157540\17.01.17(Web App starts)\Book Information Keeper\Book Information Keeper\obj\Debug\Book_Information_Keeper.Properties.Resources.resources
-D:\absjbd - 157540\17.01.17(Web App starts)\Book Information Keeper\Book Information Keeper\obj\Debug\Book Information Keeper.csproj.GenerateResource.Cache
-D:\absjbd - 157540\17.01.17(Web App starts)\Book Information Keeper\Book Information Keeper\obj\Debug\Book Information Keeper.exe
-D:\absjbd - 157540\17.01.17(Web App starts)\Book Information Keeper\Book Information Keeper\obj\Debug\Book Information Keeper.pdb

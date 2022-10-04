@@ -1,9 +1,0 @@
-C:\Users\abs.jabed\Desktop\12.01.17\BookInformationApp\BookInformationApp\bin\Debug\BookInformationApp.exe.config
-C:\Users\abs.jabed\Desktop\12.01.17\BookInformationApp\BookInformationApp\bin\Debug\BookInformationApp.exe
-C:\Users\abs.jabed\Desktop\12.01.17\BookInformationApp\BookInformationApp\bin\Debug\BookInformationApp.pdb
-C:\Users\abs.jabed\Desktop\12.01.17\BookInformationApp\BookInformationApp\obj\Debug\BookInformationApp.csprojResolveAssemblyReference.cache
-C:\Users\abs.jabed\Desktop\12.01.17\BookInformationApp\BookInformationApp\obj\Debug\BookInformationApp.MainUI.resources
-C:\Users\abs.jabed\Desktop\12.01.17\BookInformationApp\BookInformationApp\obj\Debug\BookInformationApp.Properties.Resources.resources
-C:\Users\abs.jabed\Desktop\12.01.17\BookInformationApp\BookInformationApp\obj\Debug\BookInformationApp.csproj.GenerateResource.Cache
-C:\Users\abs.jabed\Desktop\12.01.17\BookInformationApp\BookInformationApp\obj\Debug\BookInformationApp.exe
-C:\Users\abs.jabed\Desktop\12.01.17\BookInformationApp\BookInformationApp\obj\Debug\BookInformationApp.pdb

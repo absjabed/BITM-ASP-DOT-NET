@@ -1,6 +1,0 @@
-C:\Users\abs.jabed\Desktop\12.01.17\SalaryCalculationWebApp\SalaryCalculationWebApp\bin\SalaryCalculationWebApp.dll.config
-C:\Users\abs.jabed\Desktop\12.01.17\SalaryCalculationWebApp\SalaryCalculationWebApp\bin\SalaryCalculationWebApp.dll
-C:\Users\abs.jabed\Desktop\12.01.17\SalaryCalculationWebApp\SalaryCalculationWebApp\bin\SalaryCalculationWebApp.pdb
-C:\Users\abs.jabed\Desktop\12.01.17\SalaryCalculationWebApp\SalaryCalculationWebApp\obj\Debug\SalaryCalculationWebApp.csprojResolveAssemblyReference.cache
-C:\Users\abs.jabed\Desktop\12.01.17\SalaryCalculationWebApp\SalaryCalculationWebApp\obj\Debug\SalaryCalculationWebApp.dll
-C:\Users\abs.jabed\Desktop\12.01.17\SalaryCalculationWebApp\SalaryCalculationWebApp\obj\Debug\SalaryCalculationWebApp.pdb

@@ -1,6 +1,0 @@
-D:\absjbd - 157540\Advanced topics C# (03.02.17)\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.exe.config
-D:\absjbd - 157540\Advanced topics C# (03.02.17)\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.exe
-D:\absjbd - 157540\Advanced topics C# (03.02.17)\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.pdb
-D:\absjbd - 157540\Advanced topics C# (03.02.17)\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.csprojResolveAssemblyReference.cache
-D:\absjbd - 157540\Advanced topics C# (03.02.17)\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.exe
-D:\absjbd - 157540\Advanced topics C# (03.02.17)\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.pdb

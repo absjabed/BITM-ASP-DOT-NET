@@ -1,6 +1,0 @@
-D:\absjbd - 157540\05.01.17\GradingResultWithMethodApp\GradingResultWithMethodApp\bin\Debug\GradingResultWithMethodApp.exe.config
-D:\absjbd - 157540\05.01.17\GradingResultWithMethodApp\GradingResultWithMethodApp\bin\Debug\GradingResultWithMethodApp.exe
-D:\absjbd - 157540\05.01.17\GradingResultWithMethodApp\GradingResultWithMethodApp\bin\Debug\GradingResultWithMethodApp.pdb
-D:\absjbd - 157540\05.01.17\GradingResultWithMethodApp\GradingResultWithMethodApp\obj\Debug\GradingResultWithMethodApp.csprojResolveAssemblyReference.cache
-D:\absjbd - 157540\05.01.17\GradingResultWithMethodApp\GradingResultWithMethodApp\obj\Debug\GradingResultWithMethodApp.exe
-D:\absjbd - 157540\05.01.17\GradingResultWithMethodApp\GradingResultWithMethodApp\obj\Debug\GradingResultWithMethodApp.pdb

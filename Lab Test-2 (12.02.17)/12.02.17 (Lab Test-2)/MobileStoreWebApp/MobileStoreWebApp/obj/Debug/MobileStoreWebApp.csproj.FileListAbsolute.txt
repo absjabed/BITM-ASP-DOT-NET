@@ -1,6 +1,0 @@
-D:\absjbd - 157540\12.02.17 (Lab Test-2)\MobileStoreWebApp\MobileStoreWebApp\bin\MobileStoreWebApp.dll.config
-D:\absjbd - 157540\12.02.17 (Lab Test-2)\MobileStoreWebApp\MobileStoreWebApp\bin\MobileStoreWebApp.dll
-D:\absjbd - 157540\12.02.17 (Lab Test-2)\MobileStoreWebApp\MobileStoreWebApp\bin\MobileStoreWebApp.pdb
-D:\absjbd - 157540\12.02.17 (Lab Test-2)\MobileStoreWebApp\MobileStoreWebApp\obj\Debug\MobileStoreWebApp.csprojResolveAssemblyReference.cache
-D:\absjbd - 157540\12.02.17 (Lab Test-2)\MobileStoreWebApp\MobileStoreWebApp\obj\Debug\MobileStoreWebApp.dll
-D:\absjbd - 157540\12.02.17 (Lab Test-2)\MobileStoreWebApp\MobileStoreWebApp\obj\Debug\MobileStoreWebApp.pdb

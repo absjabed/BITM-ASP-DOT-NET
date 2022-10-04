@@ -1,6 +1,0 @@
-D:\absjbd - 157540\Lab Test - 3 (23.02.17)\HtmlCssCvWebApp\HtmlCssCvWebApp\bin\HtmlCssCvWebApp.dll.config
-D:\absjbd - 157540\Lab Test - 3 (23.02.17)\HtmlCssCvWebApp\HtmlCssCvWebApp\bin\HtmlCssCvWebApp.dll
-D:\absjbd - 157540\Lab Test - 3 (23.02.17)\HtmlCssCvWebApp\HtmlCssCvWebApp\bin\HtmlCssCvWebApp.pdb
-D:\absjbd - 157540\Lab Test - 3 (23.02.17)\HtmlCssCvWebApp\HtmlCssCvWebApp\obj\Debug\HtmlCssCvWebApp.dll
-D:\absjbd - 157540\Lab Test - 3 (23.02.17)\HtmlCssCvWebApp\HtmlCssCvWebApp\obj\Debug\HtmlCssCvWebApp.pdb
-D:\absjbd - 157540\Lab Test - 3 (23.02.17)\HtmlCssCvWebApp\HtmlCssCvWebApp\obj\Debug\HtmlCssCvWebApp.csprojResolveAssemblyReference.cache

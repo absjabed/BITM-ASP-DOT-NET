@@ -1,6 +1,0 @@
-E:\SEIP.NET\Batch 38\14-02-2017\HTMLIntroApp\HTMLIntroApp\bin\HTMLIntroApp.dll.config
-E:\SEIP.NET\Batch 38\14-02-2017\HTMLIntroApp\HTMLIntroApp\bin\HTMLIntroApp.dll
-E:\SEIP.NET\Batch 38\14-02-2017\HTMLIntroApp\HTMLIntroApp\bin\HTMLIntroApp.pdb
-E:\SEIP.NET\Batch 38\14-02-2017\HTMLIntroApp\HTMLIntroApp\obj\Debug\HTMLIntroApp.csprojResolveAssemblyReference.cache
-E:\SEIP.NET\Batch 38\14-02-2017\HTMLIntroApp\HTMLIntroApp\obj\Debug\HTMLIntroApp.dll
-E:\SEIP.NET\Batch 38\14-02-2017\HTMLIntroApp\HTMLIntroApp\obj\Debug\HTMLIntroApp.pdb

@@ -1,6 +1,0 @@
-D:\absjbd - 157540\19.01.17\UserDefinedClassTypeWebApp\UserDefinedClassTypeWebApp\bin\UserDefinedClassTypeWebApp.dll.config
-D:\absjbd - 157540\19.01.17\UserDefinedClassTypeWebApp\UserDefinedClassTypeWebApp\bin\UserDefinedClassTypeWebApp.dll
-D:\absjbd - 157540\19.01.17\UserDefinedClassTypeWebApp\UserDefinedClassTypeWebApp\bin\UserDefinedClassTypeWebApp.pdb
-D:\absjbd - 157540\19.01.17\UserDefinedClassTypeWebApp\UserDefinedClassTypeWebApp\obj\Debug\UserDefinedClassTypeWebApp.csprojResolveAssemblyReference.cache
-D:\absjbd - 157540\19.01.17\UserDefinedClassTypeWebApp\UserDefinedClassTypeWebApp\obj\Debug\UserDefinedClassTypeWebApp.dll
-D:\absjbd - 157540\19.01.17\UserDefinedClassTypeWebApp\UserDefinedClassTypeWebApp\obj\Debug\UserDefinedClassTypeWebApp.pdb

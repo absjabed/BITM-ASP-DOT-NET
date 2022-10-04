@@ -1,6 +1,0 @@
-D:\absjbd - 157540\24.01.17 (OOP Private Property)\BankAccountTransactionWebApp\BankAccountTransactionWebApp\bin\BankAccountTransactionWebApp.dll.config
-D:\absjbd - 157540\24.01.17 (OOP Private Property)\BankAccountTransactionWebApp\BankAccountTransactionWebApp\bin\BankAccountTransactionWebApp.dll
-D:\absjbd - 157540\24.01.17 (OOP Private Property)\BankAccountTransactionWebApp\BankAccountTransactionWebApp\bin\BankAccountTransactionWebApp.pdb
-D:\absjbd - 157540\24.01.17 (OOP Private Property)\BankAccountTransactionWebApp\BankAccountTransactionWebApp\obj\Debug\BankAccountTransactionWebApp.csprojResolveAssemblyReference.cache
-D:\absjbd - 157540\24.01.17 (OOP Private Property)\BankAccountTransactionWebApp\BankAccountTransactionWebApp\obj\Debug\BankAccountTransactionWebApp.dll
-D:\absjbd - 157540\24.01.17 (OOP Private Property)\BankAccountTransactionWebApp\BankAccountTransactionWebApp\obj\Debug\BankAccountTransactionWebApp.pdb

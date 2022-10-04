@@ -1,9 +1,0 @@
-D:\absjbd - 157540\10.01.17\NumbersListBoxApp\NumbersListBoxApp\bin\Debug\NumbersListBoxApp.exe.config
-D:\absjbd - 157540\10.01.17\NumbersListBoxApp\NumbersListBoxApp\bin\Debug\NumbersListBoxApp.exe
-D:\absjbd - 157540\10.01.17\NumbersListBoxApp\NumbersListBoxApp\bin\Debug\NumbersListBoxApp.pdb
-D:\absjbd - 157540\10.01.17\NumbersListBoxApp\NumbersListBoxApp\obj\Debug\NumbersListBoxApp.csprojResolveAssemblyReference.cache
-D:\absjbd - 157540\10.01.17\NumbersListBoxApp\NumbersListBoxApp\obj\Debug\NumbersListBoxApp.ListBoxUI.resources
-D:\absjbd - 157540\10.01.17\NumbersListBoxApp\NumbersListBoxApp\obj\Debug\NumbersListBoxApp.Properties.Resources.resources
-D:\absjbd - 157540\10.01.17\NumbersListBoxApp\NumbersListBoxApp\obj\Debug\NumbersListBoxApp.csproj.GenerateResource.Cache
-D:\absjbd - 157540\10.01.17\NumbersListBoxApp\NumbersListBoxApp\obj\Debug\NumbersListBoxApp.exe
-D:\absjbd - 157540\10.01.17\NumbersListBoxApp\NumbersListBoxApp\obj\Debug\NumbersListBoxApp.pdb

@@ -1,6 +1,0 @@
-D:\absjbd - 157540\17.01.17(Web App starts)\NameListWebApp\NameListWebApp\bin\NameListWebApp.dll.config
-D:\absjbd - 157540\17.01.17(Web App starts)\NameListWebApp\NameListWebApp\bin\NameListWebApp.dll
-D:\absjbd - 157540\17.01.17(Web App starts)\NameListWebApp\NameListWebApp\bin\NameListWebApp.pdb
-D:\absjbd - 157540\17.01.17(Web App starts)\NameListWebApp\NameListWebApp\obj\Debug\NameListWebApp.csprojResolveAssemblyReference.cache
-D:\absjbd - 157540\17.01.17(Web App starts)\NameListWebApp\NameListWebApp\obj\Debug\NameListWebApp.dll
-D:\absjbd - 157540\17.01.17(Web App starts)\NameListWebApp\NameListWebApp\obj\Debug\NameListWebApp.pdb

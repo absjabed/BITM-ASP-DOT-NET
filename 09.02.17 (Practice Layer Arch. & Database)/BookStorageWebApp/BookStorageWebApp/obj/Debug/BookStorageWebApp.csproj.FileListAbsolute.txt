@@ -1,6 +1,0 @@
-D:\absjbd - 157540\09.02.17 (Practice Layer Arch. & Database)\BookStorageWebApp\BookStorageWebApp\bin\BookStorageWebApp.dll.config
-D:\absjbd - 157540\09.02.17 (Practice Layer Arch. & Database)\BookStorageWebApp\BookStorageWebApp\bin\BookStorageWebApp.dll
-D:\absjbd - 157540\09.02.17 (Practice Layer Arch. & Database)\BookStorageWebApp\BookStorageWebApp\bin\BookStorageWebApp.pdb
-D:\absjbd - 157540\09.02.17 (Practice Layer Arch. & Database)\BookStorageWebApp\BookStorageWebApp\obj\Debug\BookStorageWebApp.csprojResolveAssemblyReference.cache
-D:\absjbd - 157540\09.02.17 (Practice Layer Arch. & Database)\BookStorageWebApp\BookStorageWebApp\obj\Debug\BookStorageWebApp.dll
-D:\absjbd - 157540\09.02.17 (Practice Layer Arch. & Database)\BookStorageWebApp\BookStorageWebApp\obj\Debug\BookStorageWebApp.pdb

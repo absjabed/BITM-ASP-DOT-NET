@@ -1,6 +1,0 @@
-D:\absjbd - 157540\05.01.17\typeConversion\typeConversion\bin\Debug\typeConversion.exe.config
-D:\absjbd - 157540\05.01.17\typeConversion\typeConversion\bin\Debug\typeConversion.exe
-D:\absjbd - 157540\05.01.17\typeConversion\typeConversion\bin\Debug\typeConversion.pdb
-D:\absjbd - 157540\05.01.17\typeConversion\typeConversion\obj\Debug\typeConversion.csprojResolveAssemblyReference.cache
-D:\absjbd - 157540\05.01.17\typeConversion\typeConversion\obj\Debug\typeConversion.exe
-D:\absjbd - 157540\05.01.17\typeConversion\typeConversion\obj\Debug\typeConversion.pdb
